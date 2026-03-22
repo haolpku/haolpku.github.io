@@ -7,13 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am Hao Liang (梁昊), a joint Ph.D. candidate at [Peking University](https://www.pku.edu.cn/) and [Zhongguancun Academy](https://www.zgclab.edu.cn/), supervised by Prof. [Wentao Zhang](https://zwt233.github.io/) and Prof. [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/). I also work closely with Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Weinan E](https://web.math.princeton.edu/~weinan/). I am currently a research intern at Tencent (青云计划).
+I am Hao Liang (梁昊), a Ph.D. candidate at [Peking University](https://www.pku.edu.cn/), jointly affiliated with [Zhongguancun Academy](https://www.zgclab.edu.cn/). I am fortunate to be supervised by Prof. [Wentao Zhang](https://zwt233.github.io/) and Prof. [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/), and to work closely with Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Weinan E](https://web.math.princeton.edu/~weinan/). I am also a research intern at **Tencent** under the Qingyun Program (青云计划), focusing on pretraining data preparation.
 
 Prior to this, I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/), where I was awarded the Xu Teli Scholarship (the highest honor of BIT) and the National Scholarship. I also visited the [University of Oxford](https://www.ox.ac.uk/), working with Prof. [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/) and Prof. [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
 
 ## Research Interests
 
-My research focuses on **Data-Centric AI**, with a particular emphasis on data infrastructure for large-scale AI systems. I have published 9 first-author / co-first-author papers at CCF-A venues and received the **Sa Shixuan Best Student Paper Award** at NDBC.
+My research focuses on **Data-Centric AI**, spanning three key directions:
+
+1. **Data Infrastructure** — Building scalable systems and pipelines for data preparation and data-model iterative training in large-scale AI.
+2. **Data Understanding** — Investigating how data quality, attribution, and scaling influence model performance.
+3. **Data Agents** — Designing autonomous agents that intelligently curate, transform, and manage data.
+
+I have published 9 first-author / co-first-author papers at CCF-A venues and received the **Sa Shixuan Best Student Paper Award** at NDBC.
 
 ## Open-Source Contributions
 
