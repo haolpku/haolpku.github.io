@@ -24,7 +24,7 @@ I have published 9 first-author / co-first-author papers at CCF-A venues and rec
 ## Open-Source Contributions
 
 - **[DataFlow](https://github.com/OpenDCAI/DataFlow)**: Lead designer of this open-source data processing framework, which has received **3,000+ GitHub Stars**. DataFlow achieved **1st place** in the ICML SeePhy Challenge and **1st place** in the Zhiyuan LIC Challenge.
-- **[DataFlex](https://github.com/OpenDCAI/DataFlex)**: Lead designer of this open-source data processing framework.
+- **[DataFlex](https://github.com/OpenDCAI/DataFlex)**: Lead designer of this open-source data-model iterative training framework.
 - **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)**: Contributed to the data module design (**65k+ Stars**).
 - **[CAMEL](https://github.com/camel-ai/camel)**: Integrated DataFlow into CAMEL's data pipeline (**16k+ Stars**).
 
