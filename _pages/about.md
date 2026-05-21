@@ -12,6 +12,7 @@ I am Hao Liang (梁昊), a Ph.D. candidate at Center for Data Science, [Peking U
 Prior to this, I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/), where I was awarded the Xu Teli Scholarship (the highest honor of BIT) and the National Scholarship. I also visited the [University of Oxford](https://www.ox.ac.uk/), working with Prof. [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/) and Prof. [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
 
 ## News
+- **[May. 2026]** Honored to receive the **2026 President's Scholarship** at Peking University for the second consecutive year.
 - **[Apr. 2026]** Our [DataFlex Technical Report](https://huggingface.co/papers/2603.26164) ranked **#1** on the Hugging Face Daily Papers leaderboard for that day.
 - **[Dec. 2025]** Our [DataFlow Technical Report](https://huggingface.co/papers/2512.16676) ranked **#1** on the Hugging Face Daily and Weekly Paper Charts!
 - **[Sep. 2025]** We won **1st place** in the [ICML 2025 SeePhys Challenge](https://arxiv.org/abs/2509.06079)!
@@ -45,4 +46,3 @@ I have published 9 first-author / co-first-author papers at CCF-A venues and rec
 - **Xu Teli Scholarship (徐特立奖学金)**, Beijing Institute of Technology (Highest Honor)
 - **National Scholarship**, Beijing Institute of Technology
 - **Sa Shixuan Best Student Paper Award (萨师煊优秀学生论文奖)**, NDBC
-
