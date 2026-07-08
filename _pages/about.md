@@ -22,11 +22,11 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 
 My research focuses on **Data-Centric AI** along four directions. For broader context, see our surveys on [text-centric](https://link.springer.com/article/10.1007/s11390-026-5948-8) and [multimodal](https://arxiv.org/abs/2405.16640) perspectives.
 
-1. **Data Infrastructure** — Scalable systems and pipelines for data preparation and data–model iterative training at scale. A conceptual overview appears in [Towards Next-Generation LLM Training: From the Data-Centric Perspective](https://arxiv.org/abs/2603.14712); open-source stacks include [DataFlow](https://github.com/OpenDCAI/DataFlow) and [DataFlex](https://github.com/OpenDCAI/DataFlex).
+1. **Data Attribution & Data–Model Interaction** *(primary focus)* — Understanding how individual data shapes model behavior through attribution, and closing the loop between data and models during training via dynamic selection, mixture, and reweighting. This is the core idea behind [DataFlex](https://github.com/OpenDCAI/DataFlex), our data-centric training framework; a conceptual overview appears in [Towards Next-Generation LLM Training: From the Data-Centric Perspective](https://arxiv.org/abs/2603.14712).
 
-2. **Data Agents** — Autonomous agents that curate, transform, and manage data intelligently. Examples include [DataFlow-Skills](https://github.com/haolpku/DataFlow-Skills) and [Text2SQL-Flow](https://arxiv.org/abs/2511.10192).
+2. **Data Agents & Principled Data Synthesis** — Autonomous agents that curate, transform, and manage data intelligently, together with data synthesis grounded in insight and theory rather than heuristics. Examples include [DataFlow-Skills](https://github.com/haolpku/DataFlow-Skills) and [Text2SQL-Flow](https://arxiv.org/abs/2511.10192).
 
-3. **Math for Data** — How data quality, attribution, and scaling shape model behavior, connecting mathematical analysis with empirical study.
+3. **Data Infrastructure** — Scalable systems and pipelines for data preparation and data–model iterative training at scale. The open-source stack is centered on [DataFlow](https://github.com/OpenDCAI/DataFlow).
 
 4. **Data for Science** — Curating scientific corpora for training and evaluation, including mathematics and formal-verification data (e.g., [Lean](https://lean-lang.org/)). Representative work includes [MathScape](https://dl.acm.org/doi/abs/10.1145/3746027.3758240), [MM-Verify](https://aclanthology.org/2025.acl-long.689/), and [Let's Verify Math Questions Step by Step](https://arxiv.org/abs/2505.13903).
 
