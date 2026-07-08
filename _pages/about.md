@@ -36,8 +36,8 @@ I have published 9 first-author / co-first-author papers at CCF-A venues and rec
 
 - **[DataFlow](https://github.com/OpenDCAI/DataFlow)** [![DataFlow stars](https://img.shields.io/github/stars/OpenDCAI/DataFlow?style=flat&logo=github&label=stars&color=181717)](https://github.com/OpenDCAI/DataFlow) — Lead designer of this open-source LLM data-preparation framework (*"Generate, Clean, and Prepare LLM Data, All-in-One"*). It provides operator-based pipelines for data synthesis, cleaning, and evaluation across domains, and won **1st place** in the ICML SeePhy Challenge and **1st place** in the Zhiyuan LIC Challenge.
 - **[DataFlex](https://github.com/OpenDCAI/DataFlex)** [![DataFlex stars](https://img.shields.io/github/stars/OpenDCAI/DataFlex?style=flat&logo=github&label=stars&color=181717)](https://github.com/OpenDCAI/DataFlex) — Lead designer of this open-source data-centric training framework built on LLaMA-Factory (*"Data Select · Mix · Reweight — Right in the LLM Training Loop"*), enabling dynamic data selection, mixture, and reweighting inside the training loop.
-- **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)**: Contributed to the data module design (**65k+ Stars**).
-- **[CAMEL](https://github.com/camel-ai/camel)**: Integrated DataFlow into CAMEL's data pipeline (**16k+ Stars**).
+- **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** [![LLaMA-Factory stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=flat&logo=github&label=stars&color=181717)](https://github.com/hiyouga/LLaMA-Factory) — Contributed to the data module design.
+- **[CAMEL](https://github.com/camel-ai/camel)** [![CAMEL stars](https://img.shields.io/github/stars/camel-ai/camel?style=flat&logo=github&label=stars&color=181717)](https://github.com/camel-ai/camel) — Integrated DataFlow into CAMEL's data pipeline.
 
 ## Honors & Awards
 
