@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hao Liang (梁昊), a Ph.D. candidate at Center for Data Science, [Peking University](https://www.pku.edu.cn/), jointly affiliated with [Zhongguancun Academy](https://www.bza.edu.cn/). I am fortunate to be supervised by Prof. [Wentao Zhang](https://zwt233.github.io/) and Prof. [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/), and to work closely with Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Weinan E](https://web.math.princeton.edu/~weinan/).
+I am Hao Liang (梁昊), a Ph.D. candidate at Center for Data Science, [Peking University](https://www.pku.edu.cn/), jointly affiliated with [Zhongguancun Academy](https://www.bza.edu.cn/). I am a **two-time recipient of the President's Scholarship at Peking University**. I am fortunate to be supervised by Prof. [Wentao Zhang](https://zwt233.github.io/) and Prof. [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/), and to work closely with Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Weinan E](https://web.math.princeton.edu/~weinan/).
 
 Prior to this, I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/), where I was awarded the Xu Teli Scholarship (the highest honor of BIT) and the National Scholarship. I also visited the [University of Oxford](https://www.ox.ac.uk/), working with Prof. [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/) and Prof. [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
 
@@ -30,7 +30,7 @@ My research focuses on **Data-Centric AI** along four directions. For broader co
 
 4. **Data for Science** — Curating scientific corpora for training and evaluation, including mathematics and formal-verification data (e.g., [Lean](https://lean-lang.org/)). Representative work includes [MathScape](https://dl.acm.org/doi/abs/10.1145/3746027.3758240), [MM-Verify](https://aclanthology.org/2025.acl-long.689/), and [Let's Verify Math Questions Step by Step](https://arxiv.org/abs/2505.13903).
 
-I have published 9 first-author / co-first-author papers at CCF-A venues and received the **Sa Shixuan Best Student Paper Award** at NDBC.
+I have published 10+ first-author / co-first-author papers at CCF-A venues and received the **Sa Shixuan Best Student Paper Award** at NDBC.
 
 ## Open-Source Contributions
 
