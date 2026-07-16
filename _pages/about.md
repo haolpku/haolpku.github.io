@@ -24,7 +24,7 @@ My research focuses on **Data-Centric AI** along four directions. For broader co
 
 1. **Data Attribution & Data–Model Interaction** *(primary focus)* — Understanding how individual data shapes model behavior through attribution, and closing the loop between data and models during training via dynamic selection, mixture, and reweighting. This is the core idea behind [DataFlex](https://github.com/OpenDCAI/DataFlex), our data-centric training framework; a conceptual overview appears in [Towards Next-Generation LLM Training: From the Data-Centric Perspective](https://arxiv.org/abs/2603.14712).
 
-2. **Data Agents & Principled Data Synthesis** — Autonomous agents that curate, transform, and manage data intelligently, together with data synthesis grounded in insight and theory rather than heuristics. Examples include [DataFlow-Skills](https://github.com/haolpku/DataFlow-Skills) and [Text2SQL-Flow](https://arxiv.org/abs/2511.10192).
+2. **Data Agents & Principled Data Synthesis** — Autonomous agents that curate, transform, and manage data intelligently, together with data synthesis grounded in insight and theory rather than heuristics. Examples include [DataFlow-Harness](https://github.com/OpenDCAI/DataFlow-WebUI) and [Text2SQL-Flow](https://arxiv.org/abs/2511.10192).
 
 3. **Data Infrastructure** — Scalable systems and pipelines for data preparation and data–model iterative training at scale. The open-source stack is centered on [DataFlow](https://github.com/OpenDCAI/DataFlow).
 
