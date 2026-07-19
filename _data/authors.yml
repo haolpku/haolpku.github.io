@@ -16,3 +16,15 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+hao-zh:
+  name          : "梁昊"
+  uri           : "https://haolpku.github.io/zh/"
+  email         : "hao.liang@stu.pku.edu.cn"
+  bio           : "北京大学博士生"
+  location      : "中国"
+  employer      : "北京大学"
+  avatar        : "profile.jpg"
+  googlescholar : "https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ"
+  orcid         : "https://orcid.org/0009-0000-2963-2210"
+  github        : "haolpku"

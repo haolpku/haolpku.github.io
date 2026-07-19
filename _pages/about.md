@@ -2,6 +2,9 @@
 permalink: /
 title: "About"
 author_profile: true
+lang: en
+translation_url: /zh/
+translation_label: 中文
 redirect_from: 
   - /about/
   - /about.html

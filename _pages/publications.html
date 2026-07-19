@@ -9,28 +9,44 @@ author_profile: true
 
 {% assign selected_papers = site.data.publications_detailed | where: "selected", true %}
 {% assign publication_years = "2026,2025,2024" | split: "," %}
+<div class="publication-catalog">
 {% for publication_year in publication_years %}
-  <h2>{{ publication_year }}</h2>
   {% assign papers = selected_papers | where: "year", publication_year %}
-  {% for paper in papers %}
-    <article class="publication-detail" style="margin-bottom: 1.8em;">
-      <h3 style="margin-bottom: 0.35em;">
-        {% if paper.paper_url %}
-          <a href="{{ paper.paper_url }}">{{ paper.title }}</a>
-        {% else %}
-          <a href="{{ scholar_base }}{{ paper.scholar_id }}">{{ paper.title }}</a>
-        {% endif %}
-      </h3>
-      <p style="margin: 0 0 0.35em;">
-        {{ paper.authors | replace: "Hao Liang", "<strong>Hao Liang</strong>" }}
-      </p>
-      <p style="margin: 0 0 0.35em;">
-        <em>{{ paper.venue }}</em>{% if paper.note %} · <strong>{{ paper.note }}</strong>{% endif %}
-      </p>
-      <p style="margin: 0 0 0.35em;">{{ paper.summary }}</p>
-      <p style="margin: 0; font-size: 0.9em;">
-        {% if paper.paper_url %}<a href="{{ paper.paper_url }}">Paper</a> · {% endif %}<a href="{{ scholar_base }}{{ paper.scholar_id }}">Google Scholar</a>
-      </p>
-    </article>
-  {% endfor %}
+  <section class="publication-year">
+    <h2 class="publication-year__heading">
+      <span>{{ publication_year }}</span>
+      <small>{{ papers.size }} papers</small>
+    </h2>
+    <div class="publication-list">
+      {% for paper in papers %}
+        <article class="publication-card{% if paper.note contains '1st place' or paper.note contains 'Best Student Paper' or paper.note contains 'Oral' %} publication-card--highlight{% endif %}">
+          <div class="publication-card__topline">
+            <span class="publication-venue">{{ paper.venue }}</span>
+            {% if paper.note %}
+              {% assign note_parts = paper.note | split: " · " %}
+              {% for note_part in note_parts %}
+                <span class="publication-badge{% if note_part contains 'author' %} publication-badge--role{% else %} publication-badge--distinction{% endif %}">{{ note_part }}</span>
+              {% endfor %}
+            {% endif %}
+          </div>
+          <h3 class="publication-card__title">
+            {% if paper.paper_url %}
+              <a href="{{ paper.paper_url }}">{{ paper.title }}</a>
+            {% else %}
+              <a href="{{ scholar_base }}{{ paper.scholar_id }}">{{ paper.title }}</a>
+            {% endif %}
+          </h3>
+          <p class="publication-card__authors">
+            {{ paper.authors | replace: "Hao Liang", "<strong class='publication-card__self'>Hao Liang</strong>" }}
+          </p>
+          <p class="publication-card__summary">{{ paper.summary }}</p>
+          <div class="publication-card__actions">
+            {% if paper.paper_url %}<a href="{{ paper.paper_url }}"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a>{% endif %}
+            <a href="{{ scholar_base }}{{ paper.scholar_id }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
 {% endfor %}
+</div>

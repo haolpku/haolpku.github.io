@@ -13,6 +13,7 @@
   authors: "Lu Ma, Hao Liang, Meiyi Qiang, Lexiang Tang, Xiaochen Ma, Zhen Hao Wong, Junbo Niu, Chengyu Shen, Runming He, Bin Cui, Wentao Zhang"
   venue: "ICLR 2026"
   year: "2026"
+  note: "Second author"
   paper_url: "https://arxiv.org/abs/2506.07527"
   scholar_id: "_kc_bZDykSQC"
   summary: "Introduces interleaved online fine-tuning to learn from questions that remain difficult for reinforcement learning, combining complementary training signals on the hardest examples."
