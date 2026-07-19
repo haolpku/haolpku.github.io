@@ -13,6 +13,8 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 
 **Research impact:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=HgapY3sAAAAJ) · **1,120+ citations** · **h-index 15** *(as of July 2026)*
 
+**Competition highlights:** 🥇 [ICML 2025 SeePhys Challenge — 1st Place](https://arxiv.org/abs/2509.06079) · 🥇 [2025 Language and Intelligence Challenge (LIC), BAAI Track 2 — First Prize](https://www.datafountain.cn/competitions/1098)
+
 ## Let's Connect
 
 I would be especially glad to connect with:
@@ -38,6 +40,7 @@ If you are working on AI data, large models, or agents—or are interested in jo
 - **[Apr. 2026]** Our [DataFlex Technical Report](https://huggingface.co/papers/2603.26164) ranked **#1** on the Hugging Face Daily Papers leaderboard for that day.
 - **[Dec. 2025]** Our [DataFlow Technical Report](https://huggingface.co/papers/2512.16676) ranked **#1** on the Hugging Face Daily and Weekly Paper Charts!
 - **[Sep. 2025]** We won **1st place** in the [ICML 2025 SeePhys Challenge](https://arxiv.org/abs/2509.06079)!
+- **[Aug. 2025]** We won **first prize** in the [2025 Language and Intelligence Challenge (LIC), BAAI Track 2](https://www.datafountain.cn/competitions/1098)!
 - **[Jun. 2025]** Honored to receive the **President's Scholarship** at Peking University.
 
 ## Research Interests
@@ -56,7 +59,7 @@ I have published 10+ first-author / co-first-author papers at CCF-A venues and r
 
 ## Open-Source Contributions
 
-- **[DataFlow](https://github.com/OpenDCAI/DataFlow)** [![DataFlow stars](https://img.shields.io/github/stars/OpenDCAI/DataFlow?style=flat&logo=github&label=stars&color=181717)](https://github.com/OpenDCAI/DataFlow) — Lead designer of this open-source LLM data-preparation framework (*"Generate, Clean, and Prepare LLM Data, All-in-One"*). It provides operator-based pipelines for data synthesis, cleaning, and evaluation across domains, and won **1st place** in the ICML SeePhy Challenge and **1st place** in the Zhiyuan LIC Challenge.
+- **[DataFlow](https://github.com/OpenDCAI/DataFlow)** [![DataFlow stars](https://img.shields.io/github/stars/OpenDCAI/DataFlow?style=flat&logo=github&label=stars&color=181717)](https://github.com/OpenDCAI/DataFlow) — Lead designer of this open-source LLM data-preparation framework (*"Generate, Clean, and Prepare LLM Data, All-in-One"*). It provides operator-based pipelines for data synthesis, cleaning, and evaluation across domains, and won **1st place** in the ICML SeePhys Challenge and **first prize** in the Zhiyuan LIC Challenge.
 - **[DataFlex](https://github.com/OpenDCAI/DataFlex)** [![DataFlex stars](https://img.shields.io/github/stars/OpenDCAI/DataFlex?style=flat&logo=github&label=stars&color=181717)](https://github.com/OpenDCAI/DataFlex) — Lead designer of this open-source data-centric training framework built on LLaMA-Factory (*"Data Select · Mix · Reweight — Right in the LLM Training Loop"*), enabling dynamic data selection, mixture, and reweighting inside the training loop.
 - **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** [![LLaMA-Factory stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=flat&logo=github&label=stars&color=181717)](https://github.com/hiyouga/LLaMA-Factory) — Contributed to the data module design.
 - **[CAMEL](https://github.com/camel-ai/camel)** [![CAMEL stars](https://img.shields.io/github/stars/camel-ai/camel?style=flat&logo=github&label=stars&color=181717)](https://github.com/camel-ai/camel) — Integrated DataFlow into CAMEL's data pipeline.
