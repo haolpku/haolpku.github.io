@@ -7,9 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-I am Hao Liang (梁昊), a Ph.D. candidate at Center for Data Science, [Peking University](https://www.pku.edu.cn/), jointly affiliated with [Zhongguancun Academy](https://www.bza.edu.cn/). I am a **two-time recipient of the President's Scholarship at Peking University**. I am fortunate to be supervised by Prof. [Wentao Zhang](https://zwt233.github.io/) and Prof. [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/), and to work closely with Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Weinan E](https://web.math.princeton.edu/~weinan/).
+I am Hao Liang (梁昊), a Ph.D. candidate at Center for Data Science, [Peking University](https://www.pku.edu.cn/), jointly affiliated with [Zhongguancun Academy](https://www.bza.edu.cn/), and the **co-founder of an AI data company**. I am a **two-time recipient of the President's Scholarship at Peking University**. I am fortunate to be supervised by Prof. [Wentao Zhang](https://zwt233.github.io/) and Prof. [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/), and to work closely with Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Weinan E](https://web.math.princeton.edu/~weinan/).
 
 Prior to this, I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/), where I was awarded the Xu Teli Scholarship (the highest honor of BIT) and the National Scholarship. I also visited the [University of Oxford](https://www.ox.ac.uk/), working with Prof. [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/) and Prof. [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
+
+## Let's Connect
+
+I would be especially glad to connect with:
+
+- Researchers and engineers working on AI data, large-model training, post-training, and agents
+- Foundation-model companies, agent product teams, and enterprise AI leaders
+- AI founders navigating enterprise adoption, commercialization, and team building
+- Students interested in research internships or graduate study opportunities at PKU-DCAI Lab
+
+Topics I am happy to discuss include:
+
+- Data generation, selection, verification, and closed-loop training for large models and agents
+- Building an AI data company, product deployment, and commercial delivery
+- Open-source projects including DataFlow, DataFlex, and DataMind
+- Research internships and graduate study opportunities at PKU-DCAI Lab
+
+If you are working on AI data, large models, or agents—or are interested in joining PKU-DCAI Lab as a research intern or graduate student—feel free to reach out. I hope to meet people with whom I can exchange ideas, build things, and collaborate over the long term.
+
+**WeChat:** 13241935113 · **Email:** [hao.liang@stu.pku.edu.cn](mailto:hao.liang@stu.pku.edu.cn)
 
 ## News
 - **[May. 2026]** Honored to receive the **2026 President's Scholarship** at Peking University for the second consecutive year.
