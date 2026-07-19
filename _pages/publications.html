@@ -7,12 +7,13 @@ author_profile: true
 
 {% assign scholar_base = "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HgapY3sAAAAJ&citation_for_view=HgapY3sAAAAJ:" %}
 
-This page is reconciled paper by paper against my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=HgapY3sAAAAJ) and local DataMind research profile. It was last carefully reviewed on **July 19, 2026**. An asterisk (*) denotes equal contribution where recorded in the source material.
+This page highlights publications where I am a **first author, co-first author, or second author**. The list is reconciled paper by paper against my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=HgapY3sAAAAJ) and local DataMind research profile. It was last carefully reviewed on **July 19, 2026**. An asterisk (*) denotes equal contribution where recorded in the source material.
 
+{% assign selected_papers = site.data.publications_detailed | where: "selected", true %}
 {% assign publication_years = "2026,2025,2024" | split: "," %}
 {% for publication_year in publication_years %}
   <h2>{{ publication_year }}</h2>
-  {% assign papers = site.data.publications_detailed | where: "year", publication_year %}
+  {% assign papers = selected_papers | where: "year", publication_year %}
   {% for paper in papers %}
     <article class="publication-detail" style="margin-bottom: 1.8em;">
       <h3 style="margin-bottom: 0.35em;">

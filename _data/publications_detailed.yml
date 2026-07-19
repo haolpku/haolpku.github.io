@@ -1,4 +1,5 @@
 - title: "Data Preparation for Large Language Models"
+  selected: true
   authors: "Hao Liang, Zhen Hao Wong, Rui-Tong Liu, Yu-Han Wang, Meiyi Qiang, Zhengyang Zhao, Chengyu Shen, Conghui He, Wentao Zhang, Bin Cui"
   venue: "Journal of Computer Science and Technology, 41(1): 289–317"
   year: "2026"
@@ -8,6 +9,7 @@
   summary: "A systematic survey of data preparation across pre-training, continual pre-training, and post-training, connecting algorithms, workflows, datasets, and open research challenges."
 
 - title: "Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions"
+  selected: true
   authors: "Lu Ma, Hao Liang, Meiyi Qiang, Lexiang Tang, Xiaochen Ma, Zhen Hao Wong, Junbo Niu, Chengyu Shen, Runming He, Bin Cui, Wentao Zhang"
   venue: "ICLR 2026"
   year: "2026"
@@ -16,6 +18,7 @@
   summary: "Introduces interleaved online fine-tuning to learn from questions that remain difficult for reinforcement learning, combining complementary training signals on the hardest examples."
 
 - title: "LoVR: A Benchmark for Long Video Retrieval in Multimodal Contexts"
+  selected: true
   authors: "Hao Liang*, Qifeng Cai*, Hejun Dong, Meiyi Qiang, Ruichuan An, Zhaoyang Han, Zhengzhou Zhu, Bin Cui, Wentao Zhang"
   venue: "The Web Conference (WWW) 2026"
   year: "2026"
@@ -25,6 +28,7 @@
   summary: "A benchmark for retrieving relevant moments from long videos under multimodal context, designed to expose the temporal and cross-modal limitations of current retrieval systems."
 
 - title: "Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL"
+  selected: true
   authors: "Qifeng Cai*, Hao Liang*, Chang Xu*, Tao Xie, Wentao Zhang, Bin Cui"
   venue: "ICDE 2026"
   year: "2026"
@@ -34,6 +38,7 @@
   summary: "A SQL-aware data augmentation framework that generates structurally valid and diverse training examples to improve robustness in text-to-SQL systems."
 
 - title: "Let's Verify Math Questions Step by Step"
+  selected: true
   authors: "Chengyu Shen*, Zhen Hao Wong*, Runming He*, Hao Liang*, Meiyi Qiang, Zimo Meng, Zhengyang Zhao, Bohan Zeng, Zhengzhou Zhu, Bin Cui, Wentao Zhang"
   venue: "KDD 2026"
   year: "2026"
@@ -83,6 +88,7 @@
   summary: "A multimodal agent with dual-layer hybrid memory for retaining, retrieving, and using long-term personal context across extended interactions."
 
 - title: "DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models"
+  selected: true
   authors: "Hao Liang et al."
   venue: "Technical report"
   year: "2026"
@@ -92,6 +98,7 @@
   summary: "A data-centric training framework that brings dynamic sample selection, mixture, and reweighting directly into the large-model training loop."
 
 - title: "LongInsightBench: A Comprehensive Benchmark for Evaluating Omni-Modal Models on Human-Centric Long-Video Understanding"
+  selected: true
   authors: "Zhaoyang Han*, Qihan Lin*, Hao Liang*, Bowen Chen, Zhou Liu, Wentao Zhang"
   venue: "Findings of ACL 2026"
   year: "2026"
@@ -101,6 +108,7 @@
   summary: "A human-centric long-video benchmark that evaluates omni-modal models across visual, audio, temporal, and social understanding."
 
 - title: "Rethinking Text-to-SQL: Dynamic Multi-turn SQL Interaction for Real-world Database Exploration"
+  selected: true
   authors: "Linzhuang Sun*, Tianyu Guo*, Hao Liang*, Ruitong Liu, Yuying Li, Qifeng Cai, Jingxuan Wei, Yuchen Wu, Bihui Yu, Xiangxiang Zhang, Wentao Zhang, Bin Cui"
   venue: "Findings of ACL 2026"
   year: "2026"
@@ -110,6 +118,7 @@
   summary: "Recasts text-to-SQL as dynamic, multi-turn database exploration so systems can refine intent and interact with real databases rather than solve isolated queries."
 
 - title: "AgenticRAGTracer: A Hop-Aware Benchmark for Diagnosing Multi-Step Retrieval Reasoning in Agentic RAG"
+  selected: true
   authors: "Qijie You*, Wenkai Yu*, Hao Liang*, Zhen Hao Wong, Wentao Zhang"
   venue: "Findings of ACL 2026"
   year: "2026"
@@ -151,6 +160,7 @@
   summary: "Combines difficulty-controllable mathematical data synthesis with curriculum learning to improve reasoning across progressively harder problems."
 
 - title: "Training Verifier to Assessing Complex Real-World Tool-Use Trajectories"
+  selected: true
   authors: "Linzhuang Sun*, Mingyang Chen*, Hao Liang*, Tianpeng Li, Yijie Zhou, Chenzheng Zhu, Tianyu Guo, Huanyao Zhang, Jingxuan Wei, Bihui Yu, Fan Yang, Wentao Zhang"
   venue: "Findings of ACL 2026"
   year: "2026"
@@ -160,6 +170,7 @@
   summary: "Develops a verifier for assessing long, complex tool-use trajectories in realistic environments where correctness depends on both actions and intermediate state."
 
 - title: "DataPrep-Bench: Benchmarking LLMs as Training Data Preparators"
+  selected: true
   authors: "Hao Liang, Qifeng Cai, Yilin Lin, J. Du, Q. Xia, S. Qiu, Linzhuang Sun, Meiyi Qiang, Zhaoyang Han, Xiaochen Ma, et al."
   venue: "Technical report"
   year: "2026"
@@ -168,6 +179,7 @@
   summary: "Benchmarks large language models as training-data preparators across core operations such as generation, cleaning, transformation, and quality control."
 
 - title: "FLARE: Full-Modality Long-Video Audiovisual Retrieval Benchmark with User-Simulated Queries"
+  selected: true
   authors: "Qijie You*, Hao Liang*, Mingrui Chen, Bohan Zeng, Meiyi Qiang, Zhen Hao Wong, Wentao Zhang"
   venue: "Technical report"
   year: "2026"
@@ -185,6 +197,7 @@
   summary: "Uses cooperative reinforcement learning to connect personalized understanding and generation within a unified reasoning process."
 
 - title: "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs"
+  selected: true
   authors: "Hao Liang, Qihan Lin, Zhaoyang Han, Xiaochen Ma, Zhen Hao Wong, Meiyi Qiang, Linzhuang Sun, Wentao Zhang"
   venue: "Technical report"
   year: "2026"
@@ -194,6 +207,7 @@
   summary: "Builds a curriculum-aligned K–12 knowledge graph for evaluating educational coverage and constructing training data for educational language models."
 
 - title: "TraceAV-Bench: Benchmarking Multi-Hop Trajectory Reasoning over Long Audio-Visual Videos"
+  selected: true
   authors: "Hengyi Feng*, Hao Liang*, Mingrui Chen, Bohan Zeng, Meiyi Qiang, Zhengyang Zhao, Zimo Meng, Zeang Sheng, Wentao Zhang"
   venue: "Technical report"
   year: "2026"
@@ -203,6 +217,7 @@
   summary: "A benchmark for multi-hop trajectory reasoning over long audio-visual videos, emphasizing evidence chains distributed across time and modalities."
 
 - title: "LongVidSearch: An Agentic Benchmark for Multi-hop Evidence Retrieval Planning in Long Videos"
+  selected: true
   authors: "Rongyi Yu*, Chenyuan Duan*, Hao Liang*, Wentao Zhang"
   venue: "ACM Multimedia 2026"
   year: "2026"
@@ -243,6 +258,7 @@
   summary: "Represents personalized concepts with unified tokens so understanding and generation models can share and reason over the same subject representation."
 
 - title: "MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification"
+  selected: true
   authors: "Linzhuang Sun*, Hao Liang*, Jingxuan Wei, Bihui Yu, Tianpeng Li, Fan Yang, Zenan Zhou, Wentao Zhang"
   venue: "ACL 2025"
   year: "2025"
@@ -260,6 +276,7 @@
   summary: "A comprehensive benchmark for measuring whether language models satisfy multiple explicit constraints in complex instructions."
 
 - title: "SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models"
+  selected: true
   authors: "Zheng Liu*, Hao Liang*, Bozhou Li, Tianyi Bai, Wentao Xiong, Chong Chen, Conghui He, Wentao Zhang, Bin Cui"
   venue: "ACM Multimedia 2025"
   year: "2025"
@@ -277,6 +294,7 @@
   summary: "Uses compositional instruction tuning to teach language models how to plan and execute function calls across multi-turn interactions."
 
 - title: "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI"
+  selected: true
   authors: "Hao Liang et al."
   venue: "Technical report"
   year: "2025"
@@ -286,6 +304,7 @@
   summary: "An open, operator-based framework that unifies data generation, cleaning, evaluation, filtering, and workflow automation for large-model development."
 
 - title: "BRACE: A Benchmark for Robust Audio Caption Quality Evaluation"
+  selected: true
   authors: "Tianyu Guo*, Hongyu Chen*, Hao Liang*, Meiyi Qiang, Bohan Zeng, Linzhuang Sun, Bin Cui, Wentao Zhang"
   venue: "NeurIPS 2025"
   year: "2025"
@@ -295,6 +314,7 @@
   summary: "A benchmark for robustly evaluating audio captions across content coverage, correctness, and failure modes that simple text-overlap metrics miss."
 
 - title: "MathScape: Evaluating MLLMs in Multimodal Math Scenarios through a Hierarchical Benchmark"
+  selected: true
   authors: "Hao Liang*, Linzhuang Sun*, Minxuan Zhou*, Tianpeng Li, Zhiyu Wu, Mingan Lin, Yaqi Zhou, Yan Zhang, Xiaoqin Huang, Yicong Chen, Yujing Qiao, Weipeng Chen, Bin Cui, Wentao Zhang, Zenan Zhou"
   venue: "ACM Multimedia 2025"
   year: "2025"
@@ -304,6 +324,7 @@
   summary: "A hierarchical benchmark for evaluating multimodal large language models across realistic mathematical settings, representations, and reasoning demands."
 
 - title: "PAS: Data-Efficient Plug-and-Play Prompt Augmentation System"
+  selected: true
   authors: "Miao Zheng*, Hao Liang*, Fan Yang, Haoze Sun, Tianpeng Li, Lingchu Xiong, Yan Zhang, Youzhen Wu, Kun Li, Yanjun Shen, Mingan Lin, Tao Zhang, Guosheng Dong, Yujing Qiao, Kun Fang, Weipeng Chen, Bin Cui, Wentao Zhang, Zenan Zhou"
   venue: "ICDE 2025"
   year: "2025"
@@ -313,6 +334,7 @@
   summary: "A plug-and-play prompt augmentation system that improves downstream performance while requiring little task-specific training data."
 
 - title: "Multimodal Reasoning for Science: Technical Report and 1st Place Solution to the ICML 2025 SeePhys Challenge"
+  selected: true
   authors: "Hao Liang, Ruitao Wu, Bohan Zeng, Junbo Niu, Wentao Zhang, Bin Dong"
   venue: "ICML 2025 SeePhys Challenge technical report"
   year: "2025"
@@ -331,6 +353,7 @@
   summary: "Learns aligned question-answer representations with an encoder designed to capture the semantic relationship needed by retrieval and answering systems."
 
 - title: "MathClean: A Benchmark for Synthetic Mathematical Data Cleaning"
+  selected: true
   authors: "Hao Liang, Meiyi Qiang, Yuying Li, Zefeng He, Yongzhen Guo, Zhengzhou Zhu, Wentao Zhang, Bin Cui"
   venue: "Technical report"
   year: "2025"
@@ -348,6 +371,7 @@
   summary: "Uses difficulty priors to improve reinforcement-learning signals for multimodal reasoning and to allocate training effort more effectively."
 
 - title: "EVQAScore: Efficient Video Question Answering Data Evaluation"
+  selected: true
   authors: "Hao Liang, Zirong Chen, Wentao Zhang"
   venue: "NDBC 2025"
   year: "2025"
@@ -357,6 +381,7 @@
   summary: "An efficient quality score for video-question-answering data that supports filtering and selection before expensive multimodal training."
 
 - title: "Data Proportion Detection for Optimized Data Management for Large Language Models"
+  selected: true
   authors: "Hao Liang, Keshi Zhao, Yajie Yang, Bin Cui, Guosheng Dong, Zenan Zhou, Wentao Zhang"
   venue: "ICDE 2025"
   year: "2025"
@@ -406,6 +431,7 @@
   summary: "Extends personalized vision-language modeling from a single subject to multiple concepts that must be recognized and reasoned about together."
 
 - title: "KeyVideoLLM: Towards Large-Scale Video Keyframe Selection"
+  selected: true
   authors: "Hao Liang, Jiapeng Li, Tianyi Bai, Xijie Huang, Linzhuang Sun, Zhengren Wang, Conghui He, Bin Cui, Chong Chen, Wentao Zhang"
   venue: "Technical report"
   year: "2024"
@@ -415,6 +441,7 @@
   summary: "Uses large models to select informative video keyframes at scale, reducing visual redundancy while preserving information needed by downstream tasks."
 
 - title: "Synth-Empathy: Towards High-Quality Synthetic Empathy Data"
+  selected: true
   authors: "Hao Liang, Linzhuang Sun, Jingxuan Wei, Xijie Huang, Linkun Sun, Bihui Yu, Conghui He, Wentao Zhang"
   venue: "Technical report"
   year: "2024"
