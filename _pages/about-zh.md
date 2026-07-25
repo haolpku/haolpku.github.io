@@ -38,6 +38,7 @@ translation_label: EN
 
 ## 最新动态
 
+- **[2026 年 7 月]** [DataFlow-Harness 论文](https://huggingface.co/papers/2607.16617)登上 Hugging Face Daily Papers 榜单 **第 2 名**。
 - **[2026 年 5 月]** 连续第二年获得 **北京大学校长奖学金**。
 - **[2026 年 4 月]** [DataFlex 技术报告](https://huggingface.co/papers/2603.26164)登顶当日 Hugging Face Daily Papers 榜单。
 - **[2025 年 12 月]** [DataFlow 技术报告](https://huggingface.co/papers/2512.16676)同时登顶 Hugging Face Daily 与 Weekly Paper Charts。

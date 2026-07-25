@@ -39,6 +39,7 @@ If you are working on AI data, large models, or agents—or are interested in jo
 **WeChat:** 13241935113 · **Email:** [hao.liang@stu.pku.edu.cn](mailto:hao.liang@stu.pku.edu.cn)
 
 ## News
+- **[Jul. 2026]** Our [DataFlow-Harness paper](https://huggingface.co/papers/2607.16617) ranked **#2** on the Hugging Face Daily Papers leaderboard.
 - **[May. 2026]** Honored to receive the **2026 President's Scholarship** at Peking University for the second consecutive year.
 - **[Apr. 2026]** Our [DataFlex Technical Report](https://huggingface.co/papers/2603.26164) ranked **#1** on the Hugging Face Daily Papers leaderboard for that day.
 - **[Dec. 2025]** Our [DataFlow Technical Report](https://huggingface.co/papers/2512.16676) ranked **#1** on the Hugging Face Daily and Weekly Paper Charts!
