@@ -41,6 +41,7 @@ If you are working on AI data, large models, or agents—or are interested in jo
 ## News
 - **[Jul. 2026]** Our [K12-KGraph paper](https://huggingface.co/papers/2605.09635) ranked **#2** on the Hugging Face Daily Papers leaderboard.
 - **[Jul. 2026]** Our [DataFlow-Harness paper](https://huggingface.co/papers/2607.16617) ranked **#2** on the Hugging Face Daily Papers leaderboard.
+- **[May. 2026]** Our [DataPrep-Bench paper](https://huggingface.co/papers/2607.20465) ranked **#1** on the Hugging Face Daily Papers leaderboard.
 - **[May. 2026]** Honored to receive the **2026 President's Scholarship** at Peking University for the second consecutive year.
 - **[Apr. 2026]** Our [DataFlex Technical Report](https://huggingface.co/papers/2603.26164) ranked **#1** on the Hugging Face Daily Papers leaderboard for that day.
 - **[Dec. 2025]** Our [DataFlow Technical Report](https://huggingface.co/papers/2512.16676) ranked **#1** on the Hugging Face Daily and Weekly Paper Charts!
