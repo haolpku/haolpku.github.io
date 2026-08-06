@@ -54,11 +54,11 @@ translation_label: EN
 
 1. **数据归因与数据—模型交互** *（主要方向）* — 研究单条数据如何影响模型行为，并在训练过程中通过动态选择、混合和重加权建立数据与模型的闭环交互。这也是数据中心训练框架 [DataFlex](https://github.com/OpenDCAI/DataFlex) 的核心思想；概念性介绍可参考 [Towards Next-Generation LLM Training: From the Data-Centric Perspective](https://arxiv.org/abs/2603.14712)。
 
-2. **数据智能体与原理驱动的数据合成** — 构建能够自主整理、变换和管理数据的 Agent，并探索由洞察与理论驱动、而非仅依赖启发式规则的数据合成方法。代表项目包括 [DataFlow-Harness](https://github.com/OpenDCAI/DataFlow-WebUI) 和 [Text2SQL-Flow](https://arxiv.org/abs/2511.10192)。
+2. **数据自进化** — 构建由模型与 Agent 反馈驱动的数据闭环，使数据能够持续生成、评估、筛选、修正与复用，并随模型能力和任务需求共同演化。我重点关注 On-policy 反馈、针对模型弱点的数据合成、可执行验证，以及将轨迹、Skills 和 Memory 作为可持续演化的数据资产。
 
-3. **数据基础设施** — 面向大规模数据准备和数据—模型迭代训练，构建可扩展的系统与工作流。相关开源技术栈以 [DataFlow](https://github.com/OpenDCAI/DataFlow) 为核心。
+3. **数据基础设施** — 构建覆盖完整数据生命周期的可扩展基础设施：[DataFlow](https://github.com/OpenDCAI/DataFlow) 负责可组合的数据准备与工作流自动化，[DataFlex](https://github.com/OpenDCAI/DataFlex) 负责训练过程中的动态样本选择、数据混合与重加权，[DataMind](https://github.com/haolpku/DataMind) 负责通过 RAG、GraphRAG、SQL、Skills 和 Memory 实现推理期知识访问。
 
-4. **面向科学的数据** — 构建用于训练与评测的科学数据，覆盖数学和形式化验证数据（如 [Lean](https://lean-lang.org/)）。代表工作包括 [MathScape](https://dl.acm.org/doi/abs/10.1145/3746027.3758240)、[MM-Verify](https://aclanthology.org/2025.acl-long.689/) 和 [Let's Verify Math Questions Step by Step](https://arxiv.org/abs/2505.13903)。
+4. **领域数据：Datasets & Benchmarks** — 面向数学、[Lean](https://lean-lang.org/) 形式化推理与验证、工作场景、代码等高价值领域，构建有效且可验证的数据集与基准。我重点关注合理的任务定义、数据构建、质量控制和评测协议。代表工作包括 [MathScape](https://dl.acm.org/doi/abs/10.1145/3746027.3758240)、[MM-Verify](https://aclanthology.org/2025.acl-long.689/)、[Let's Verify Math Questions Step by Step](https://arxiv.org/abs/2505.13903) 和 [K12-KGraph](https://huggingface.co/papers/2605.09635)。
 
 我已在 CCF-A 类会议发表 **10+ 篇一作或共同一作论文**，并获得 NDBC **萨师煊优秀学生论文奖**。
 
