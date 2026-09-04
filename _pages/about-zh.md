@@ -14,7 +14,7 @@ translation_label: EN
 
 **学术影响力：** [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ) · **1,120+ 次引用** · **h-index 15** *（截至 2026 年 7 月）*
 
-**竞赛获奖：** 🥇 [ICML 2025 SeePhys Challenge 冠军](https://arxiv.org/abs/2509.06079) · 🥇 [2025 语言与智能技术竞赛（LIC）智源赛道二一等奖](https://www.datafountain.cn/competitions/1098)
+**竞赛获奖：** 🥇 [ICML 2025 SeePhys Challenge 冠军](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025，Track 2 一等奖](https://www.datafountain.cn/competitions/1098)
 
 ## 欢迎交流
 
@@ -45,7 +45,7 @@ translation_label: EN
 - **[2026 年 4 月]** [DataFlex 技术报告](https://huggingface.co/papers/2603.26164)登顶当日 Hugging Face Daily Papers 榜单。
 - **[2025 年 12 月]** [DataFlow 技术报告](https://huggingface.co/papers/2512.16676)同时登顶 Hugging Face Daily 与 Weekly Paper Charts。
 - **[2025 年 9 月]** 获得 [ICML 2025 SeePhys Challenge](https://arxiv.org/abs/2509.06079) **冠军**。
-- **[2025 年 8 月]** 获得[2025 语言与智能技术竞赛（LIC）智源赛道二](https://www.datafountain.cn/competitions/1098) **一等奖**。
+- **[2025 年 8 月]** 获得 [BAAI LIC Challenge 2025，Track 2](https://www.datafountain.cn/competitions/1098) **一等奖**。
 - **[2025 年 6 月]** 获得 **北京大学校长奖学金**。
 
 ## 研究方向
@@ -64,7 +64,7 @@ translation_label: EN
 
 ## 开源项目
 
-- **[DataFlow](https://github.com/OpenDCAI/DataFlow)** [![DataFlow stars](https://img.shields.io/github/stars/OpenDCAI/DataFlow?style=flat&logo=github&label=stars&color=181717)](https://github.com/OpenDCAI/DataFlow) — 核心设计者。DataFlow 是一套开源大模型数据准备框架（*“Generate, Clean, and Prepare LLM Data, All-in-One”*），通过算子化工作流支持多领域的数据生成、清洗和评测，并获得 ICML SeePhys Challenge 冠军与智源 LIC Challenge 一等奖。
+- **[DataFlow](https://github.com/OpenDCAI/DataFlow)** [![DataFlow stars](https://img.shields.io/github/stars/OpenDCAI/DataFlow?style=flat&logo=github&label=stars&color=181717)](https://github.com/OpenDCAI/DataFlow) — 核心设计者。DataFlow 是一套开源大模型数据准备框架（*“Generate, Clean, and Prepare LLM Data, All-in-One”*），通过算子化工作流支持多领域的数据生成、清洗和评测，并获得 ICML SeePhys Challenge 冠军与 BAAI LIC Challenge 一等奖。
 - **[DataFlex](https://github.com/OpenDCAI/DataFlex)** [![DataFlex stars](https://img.shields.io/github/stars/OpenDCAI/DataFlex?style=flat&logo=github&label=stars&color=181717)](https://github.com/OpenDCAI/DataFlex) — 核心设计者。DataFlex 是构建在 LLaMA-Factory 之上的数据中心动态训练框架（*“Data Select · Mix · Reweight — Right in the LLM Training Loop”*），支持在训练闭环中动态完成数据选择、混合与重加权。
 - **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** [![LLaMA-Factory stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=flat&logo=github&label=stars&color=181717)](https://github.com/hiyouga/LLaMA-Factory) — 参与数据模块设计。
 - **[CAMEL](https://github.com/camel-ai/camel)** [![CAMEL stars](https://img.shields.io/github/stars/camel-ai/camel?style=flat&logo=github&label=stars&color=181717)](https://github.com/camel-ai/camel) — 将 DataFlow 集成至 CAMEL 数据工作流。
