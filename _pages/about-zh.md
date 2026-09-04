@@ -12,7 +12,7 @@ translation_label: EN
 
 本科毕业于[北京理工大学](https://www.bit.edu.cn/)，曾获徐特立奖学金（北京理工大学最高荣誉）和国家奖学金。我也曾赴[牛津大学](https://www.ox.ac.uk/)访问，与 [Ismail Ilkan Ceylan 教授](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/)和[Michael Bronstein 教授](https://www.cs.ox.ac.uk/people/michael.bronstein/)开展合作。
 
-**学术影响力：** [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ) · **1,120+ 次引用** · **h-index 15** *（截至 2026 年 7 月）*
+**学术影响力：** [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ) · **3,958+ 次引用** · **h-index 18** *（截至 2026 年 9 月 4 日）*
 
 **竞赛获奖：** 🥇 [ICML 2025 SeePhys Challenge 冠军](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025，Track 2 一等奖](https://www.datafountain.cn/competitions/1098)
 
