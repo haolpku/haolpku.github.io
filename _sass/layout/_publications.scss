@@ -131,7 +131,8 @@
 }
 
 .publication-card__authors,
-.publication-card__summary {
+.publication-card__summary,
+.publication-card__citation {
   margin: 0 0 0.55rem;
   line-height: 1.55;
 }
@@ -149,6 +150,11 @@
 .publication-card__summary {
   color: var(--global-text-color);
   font-size: 0.91rem;
+}
+
+.publication-card__citation {
+  color: var(--global-text-color);
+  font-size: 0.82rem;
 }
 
 .publication-card__actions {

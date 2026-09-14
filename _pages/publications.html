@@ -19,7 +19,7 @@ author_profile: true
     </h2>
     <div class="publication-list">
       {% for paper in papers %}
-        <article class="publication-card{% if paper.note contains '1st place' or paper.note contains 'Best Student Paper' or paper.note contains 'Oral' %} publication-card--highlight{% endif %}">
+        <article class="publication-card{% if paper.note contains '1st place' or paper.note contains 'Best Student Paper' or paper.note contains 'Oral' or paper.note contains 'Daily #1' %} publication-card--highlight{% endif %}">
           <div class="publication-card__topline">
             <span class="publication-venue">{{ paper.venue }}</span>
             {% if paper.note %}
@@ -40,9 +40,10 @@ author_profile: true
             {{ paper.authors | replace: "Hao Liang", "<strong class='publication-card__self'>Hao Liang</strong>" }}
           </p>
           <p class="publication-card__summary">{{ paper.summary }}</p>
+          {% if paper.citation %}<p class="publication-card__citation"><strong>Recommended citation:</strong> {{ paper.citation }}</p>{% endif %}
           <div class="publication-card__actions">
             {% if paper.paper_url %}<a href="{{ paper.paper_url }}"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> Paper</a>{% endif %}
-            <a href="{{ scholar_base }}{{ paper.scholar_id }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
+            {% if paper.scholar_id %}<a href="{{ scholar_base }}{{ paper.scholar_id }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>{% endif %}
           </div>
         </article>
       {% endfor %}

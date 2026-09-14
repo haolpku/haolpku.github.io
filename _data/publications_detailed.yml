@@ -1,3 +1,14 @@
+- title: "DataFlex-RL: An Evaluation Platform for RLVR Data Policies"
+  selected: true
+  authors: "Hao Liang, Mingrui Chen, Hengyi Feng, Meiyi Qiang, Wentao Zhang"
+  venue: "arXiv preprint arXiv:2609.06107"
+  year: "2026"
+  note: "First author · Hugging Face Daily #1"
+  paper_url: "https://arxiv.org/abs/2609.06107"
+  scholar_id: ""
+  citation: "Hao Liang, Mingrui Chen, Hengyi Feng, Meiyi Qiang, Wentao Zhang. (2026). \"DataFlex-RL: An Evaluation Platform for RLVR Data Policies.\" arXiv preprint arXiv:2609.06107."
+  summary: "An evaluation platform for reinforcement learning with verifiable rewards that compares rollout selection, reweighting, and domain-mixture policies under a common GRPO recipe."
+
 - title: "Data Preparation for Large Language Models"
   selected: true
   authors: "Hao Liang, Zhen Hao Wong, Rui-Tong Liu, Yu-Han Wang, Meiyi Qiang, Zhengyang Zhao, Chengyu Shen, Conghui He, Wentao Zhang, Bin Cui"

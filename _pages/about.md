@@ -14,7 +14,7 @@ I am Hao Liang (梁昊), a Ph.D. candidate at Center for Data Science, [Peking U
 
 Prior to this, I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/), where I was awarded the Xu Teli Scholarship (the highest honor of BIT) and the National Scholarship. I also visited the [University of Oxford](https://www.ox.ac.uk/), working with Prof. [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/) and Prof. [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
 
-**Research impact:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=HgapY3sAAAAJ) · **3,958+ citations** · **h-index 18** *(as of September 4, 2026)*
+**Research impact:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=HgapY3sAAAAJ) · **4,049+ citations** · **h-index 18** *(as of September 14, 2026)*
 
 **Competition highlights:** 🥇 [ICML 2025 SeePhys Challenge — 1st Place](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025, Track 2 — First Prize](https://www.datafountain.cn/competitions/1098)
 
@@ -39,6 +39,7 @@ If you are working on AI data, large models, or agents—or are interested in jo
 **WeChat:** 13241935113 · **Email:** [hao.liang@stu.pku.edu.cn](mailto:hao.liang@stu.pku.edu.cn)
 
 ## News
+- **[Sep. 2026]** Our [DataFlex-RL paper](https://huggingface.co/papers/2609.06107) ranked **#1** on the Hugging Face Daily Papers leaderboard.
 - **[Jul. 2026]** Our [K12-KGraph paper](https://huggingface.co/papers/2605.09635) ranked **#2** on the Hugging Face Daily Papers leaderboard.
 - **[Jul. 2026]** Our [DataFlow-Harness paper](https://huggingface.co/papers/2607.16617) ranked **#2** on the Hugging Face Daily Papers leaderboard.
 - **[May. 2026]** Our [DataPrep-Bench paper](https://huggingface.co/papers/2607.20465) ranked **#1** on the Hugging Face Daily Papers leaderboard.
