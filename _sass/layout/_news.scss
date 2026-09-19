@@ -1,0 +1,72 @@
+/* ========================================================================== 
+   HOMEPAGE NEWS TIMELINE
+   ========================================================================== */
+
+.news-list {
+  margin: -0.2rem 0 1.6rem;
+  font-size: 0.9em;
+  line-height: 1.55;
+
+  > ul {
+    margin: 0;
+    padding: 0 0 0 1.1rem;
+    border-left: 1px solid var(--global-border-color);
+    list-style: none;
+  }
+
+  li {
+    position: relative;
+    margin: 0;
+    padding: 0 0 0.72rem 0.55rem;
+
+    &:last-child {
+      padding-bottom: 0;
+    }
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0.58em;
+      left: -1.34rem;
+      width: 0.42rem;
+      height: 0.42rem;
+      border: 2px solid var(--global-bg-color);
+      border-radius: 50%;
+      background: var(--global-link-color);
+      box-shadow: 0 0 0 1px var(--global-link-color);
+    }
+
+    > strong:first-child {
+      display: inline-block;
+      margin-right: 0.35rem;
+      padding: 0.08rem 0.38rem;
+      border: 1px solid rgba(82, 173, 200, 0.3);
+      border-radius: 999px;
+      color: var(--global-link-color);
+      background: rgba(82, 173, 200, 0.08);
+      font-size: 0.88em;
+      font-weight: 700;
+      line-height: 1.35;
+      letter-spacing: 0.01em;
+      white-space: nowrap;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .news-list {
+    font-size: 0.92em;
+
+    > ul {
+      padding-left: 0.95rem;
+    }
+
+    li {
+      padding-left: 0.4rem;
+
+      &:before {
+        left: -1.19rem;
+      }
+    }
+  }
+}

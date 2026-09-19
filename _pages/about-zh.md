@@ -38,16 +38,21 @@ translation_label: EN
 
 ## 最新动态
 
-- **[2026 年 9 月]** [DataFlex-RL 论文](https://huggingface.co/papers/2609.06107)登顶 Hugging Face Daily Papers 榜单，排名 **第 1 名**。
-- **[2026 年 7 月]** [K12-KGraph 论文](https://huggingface.co/papers/2605.09635)登上 Hugging Face Daily Papers 榜单 **第 2 名**。
-- **[2026 年 7 月]** [DataFlow-Harness 论文](https://huggingface.co/papers/2607.16617)登上 Hugging Face Daily Papers 榜单 **第 2 名**。
-- **[2026 年 5 月]** [DataPrep-Bench 论文](https://huggingface.co/papers/2607.20465)登上 Hugging Face Daily Papers 榜单 **第 1 名**。
-- **[2026 年 5 月]** 连续第二年获得 **北京大学校长奖学金**。
-- **[2026 年 4 月]** [DataFlex 技术报告](https://huggingface.co/papers/2603.26164)登顶当日 Hugging Face Daily Papers 榜单。
-- **[2025 年 12 月]** [DataFlow 技术报告](https://huggingface.co/papers/2512.16676)同时登顶 Hugging Face Daily 与 Weekly Paper Charts。
-- **[2025 年 9 月]** 获得 [ICML 2025 SeePhys Challenge](https://arxiv.org/abs/2509.06079) **冠军**。
-- **[2025 年 8 月]** 获得 [BAAI LIC Challenge 2025，Track 2](https://www.datafountain.cn/competitions/1098) **一等奖**。
-- **[2025 年 6 月]** 获得 **北京大学校长奖学金**。
+<div class="news-list" markdown="1">
+
+- **2026 年 9 月** 获得 **国家奖学金**。
+- **2026 年 9 月** [DataFlex-RL 论文](https://huggingface.co/papers/2609.06107)登顶 Hugging Face Daily Papers 榜单，排名 **第 1 名**。
+- **2026 年 7 月** [K12-KGraph 论文](https://huggingface.co/papers/2605.09635)登上 Hugging Face Daily Papers 榜单 **第 2 名**。
+- **2026 年 7 月** [DataFlow-Harness 论文](https://huggingface.co/papers/2607.16617)登上 Hugging Face Daily Papers 榜单 **第 2 名**。
+- **2026 年 5 月** [DataPrep-Bench 论文](https://huggingface.co/papers/2607.20465)登上 Hugging Face Daily Papers 榜单 **第 1 名**。
+- **2026 年 5 月** 连续第二年获得 **北京大学校长奖学金**。
+- **2026 年 4 月** [DataFlex 技术报告](https://huggingface.co/papers/2603.26164)登顶当日 Hugging Face Daily Papers 榜单。
+- **2025 年 12 月** [DataFlow 技术报告](https://huggingface.co/papers/2512.16676)同时登顶 Hugging Face Daily 与 Weekly Paper Charts。
+- **2025 年 9 月** 获得 [ICML 2025 SeePhys Challenge](https://arxiv.org/abs/2509.06079) **冠军**。
+- **2025 年 8 月** 获得 [BAAI LIC Challenge 2025，Track 2](https://www.datafountain.cn/competitions/1098) **一等奖**。
+- **2025 年 6 月** 获得 **北京大学校长奖学金**。
+
+</div>
 
 ## 研究方向
 
