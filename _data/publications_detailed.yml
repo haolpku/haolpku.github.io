@@ -419,7 +419,7 @@
   authors: "Hao Liang, Keshi Zhao, Yajie Yang, Bin Cui, Guosheng Dong, Zenan Zhou, Wentao Zhang"
   venue: "ICDE 2025"
   year: "2025"
-  note: "First author"
+  note: "First author · Oral"
   paper_url: "https://arxiv.org/abs/2409.17527"
   scholar_id: "W7OEmFMy1HYC"
   summary: "Estimates the effective proportions of heterogeneous pre-training data so data mixtures can be managed and optimized more systematically."
