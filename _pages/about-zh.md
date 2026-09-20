@@ -116,7 +116,7 @@ translation_label: EN
       <div class="research-card__links research-card__links--projects">
         <a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a>
         <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
-        <a href="https://github.com/haolpku/DataMind">DataMind</a>
+        <a href="https://github.com/OpenDCAI/DataMind">DataMind</a>
       </div>
     </article>
 
@@ -163,6 +163,15 @@ translation_label: EN
   <article class="oss-project">
     <span class="oss-project__index" aria-hidden="true">03</span>
     <div class="oss-project__identity">
+      <div class="oss-project__title"><h3><a href="https://github.com/OpenDCAI/DataMind">DataMind</a></h3><a href="https://github.com/OpenDCAI/DataMind" aria-label="DataMind stars"><img src="https://img.shields.io/github/stars/OpenDCAI/DataMind?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="DataMind stars"></a></div>
+      <span class="oss-project__role">核心设计者</span>
+    </div>
+    <div class="oss-project__body"><p><em>Store at inference time. Retrieve with evidence.</em> 面向 Agent 的共享数据平面，统一连接 RAG、数据库、知识图谱、Skills 与持久化 Memory。</p></div>
+  </article>
+
+  <article class="oss-project">
+    <span class="oss-project__index" aria-hidden="true">04</span>
+    <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/hiyouga/LLaMA-Factory">LLaMA-Factory</a></h3><a href="https://github.com/hiyouga/LLaMA-Factory" aria-label="LLaMA-Factory stars"><img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="LLaMA-Factory stars"></a></div>
       <span class="oss-project__role">参与贡献</span>
     </div>
@@ -170,7 +179,7 @@ translation_label: EN
   </article>
 
   <article class="oss-project">
-    <span class="oss-project__index" aria-hidden="true">04</span>
+    <span class="oss-project__index" aria-hidden="true">05</span>
     <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/camel-ai/camel">CAMEL</a></h3><a href="https://github.com/camel-ai/camel" aria-label="CAMEL stars"><img src="https://img.shields.io/github/stars/camel-ai/camel?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="CAMEL stars"></a></div>
       <span class="oss-project__role">生态集成</span>

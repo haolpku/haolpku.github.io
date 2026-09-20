@@ -118,7 +118,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
       <div class="research-card__links research-card__links--projects">
         <a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a>
         <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
-        <a href="https://github.com/haolpku/DataMind">DataMind</a>
+        <a href="https://github.com/OpenDCAI/DataMind">DataMind</a>
       </div>
     </article>
 
@@ -167,6 +167,15 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
   <article class="oss-project">
     <span class="oss-project__index" aria-hidden="true">03</span>
     <div class="oss-project__identity">
+      <div class="oss-project__title"><h3><a href="https://github.com/OpenDCAI/DataMind">DataMind</a></h3><a href="https://github.com/OpenDCAI/DataMind" aria-label="DataMind stars"><img src="https://img.shields.io/github/stars/OpenDCAI/DataMind?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="DataMind stars"></a></div>
+      <span class="oss-project__role">Lead designer</span>
+    </div>
+    <div class="oss-project__body"><p><em>Store at inference time. Retrieve with evidence.</em> A shared data plane for agents spanning RAG, databases, knowledge graphs, Skills, and durable Memory.</p></div>
+  </article>
+
+  <article class="oss-project">
+    <span class="oss-project__index" aria-hidden="true">04</span>
+    <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/hiyouga/LLaMA-Factory">LLaMA-Factory</a></h3><a href="https://github.com/hiyouga/LLaMA-Factory" aria-label="LLaMA-Factory stars"><img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="LLaMA-Factory stars"></a></div>
       <span class="oss-project__role">Contributor</span>
     </div>
@@ -174,7 +183,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
   </article>
 
   <article class="oss-project">
-    <span class="oss-project__index" aria-hidden="true">04</span>
+    <span class="oss-project__index" aria-hidden="true">05</span>
     <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/camel-ai/camel">CAMEL</a></h3><a href="https://github.com/camel-ai/camel" aria-label="CAMEL stars"><img src="https://img.shields.io/github/stars/camel-ai/camel?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="CAMEL stars"></a></div>
       <span class="oss-project__role">Integration</span>
