@@ -19,13 +19,13 @@ author_profile: true
     </h2>
     <div class="publication-list">
       {% for paper in papers %}
-        <article class="publication-card{% if paper.note contains '1st place' or paper.note contains 'Best Student Paper' or paper.note contains 'Oral' or paper.note contains 'Daily #1' %} publication-card--highlight{% endif %}">
+        <article class="publication-card{% if paper.note contains '1st place' or paper.note contains 'Best Student Paper' or paper.note contains 'Oral' or paper.note contains 'Daily Papers #1' %} publication-card--highlight{% endif %}">
           <div class="publication-card__topline">
             <span class="publication-venue">{{ paper.venue }}</span>
             {% if paper.note %}
               {% assign note_parts = paper.note | split: " · " %}
               {% for note_part in note_parts %}
-                <span class="publication-badge{% if note_part contains 'author' %} publication-badge--role{% else %} publication-badge--distinction{% endif %}">{{ note_part }}</span>
+                <span class="publication-badge{% if note_part contains 'author' %} publication-badge--role{% elsif note_part contains 'Hugging Face' %} publication-badge--huggingface{% else %} publication-badge--distinction{% endif %}">{{ note_part }}</span>
               {% endfor %}
             {% endif %}
           </div>
