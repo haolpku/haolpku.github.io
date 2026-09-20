@@ -8,7 +8,7 @@ author_profile: true
 {% assign scholar_base = "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HgapY3sAAAAJ&citation_for_view=HgapY3sAAAAJ:" %}
 
 {% assign selected_papers = site.data.publications_detailed | where: "selected", true %}
-{% assign publication_years = "2026,2025,2024" | split: "," %}
+{% assign publication_years = "2027,2026,2025,2024" | split: "," %}
 <div class="publication-catalog">
 {% for publication_year in publication_years %}
   {% assign papers = selected_papers | where: "year", publication_year %}

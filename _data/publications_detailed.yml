@@ -186,7 +186,7 @@
 - title: "Guided Verifier: Collaborative Multimodal Reasoning via Dynamic Process Supervision"
   selected: true
   authors: "Linzhuang Sun*, Ruitong Liu*, Yuxia Zhu*, Hao Liang*, Sizhe Qiu*, Xiaohan Xu, Jingxuan Wei, Xiangxiang Zhang, Bihui Yu, Zhengzhou Zhu"
-  venue: "Technical report"
+  venue: "ACM Multimedia 2026"
   year: "2026"
   note: "Co-first author"
   paper_url: "https://arxiv.org/abs/2602.04290"
@@ -276,8 +276,8 @@
 - title: "CapGeo-Bench: Decoupling Visual Perception from Reasoning and Evaluating Geometric Understanding"
   selected: true
   authors: "Yuying Li*, Siyi Qian*, Hao Liang*, Leqi Zheng, Ruichuan An, Linzhuang Sun, Jiajun Zhang, Wentao Zhang"
-  venue: "Technical report"
-  year: "2025"
+  venue: "Findings of ACL 2026"
+  year: "2026"
   note: "Co-first author"
   paper_url: "https://arxiv.org/abs/2510.09302"
   scholar_id: ""
@@ -330,9 +330,9 @@
 - title: "DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI"
   selected: true
   authors: "Hao Liang et al."
-  venue: "Technical report"
-  year: "2025"
-  note: "First author"
+  venue: "SIGMOD 2027"
+  year: "2027"
+  note: "First author · Oral"
   paper_url: "https://arxiv.org/abs/2512.16676"
   scholar_id: "iH-uZ7U-co4C"
   summary: "An open, operator-based framework that unifies data generation, cleaning, evaluation, filtering, and workflow automation for large-model development."
