@@ -155,13 +155,15 @@
   scholar_id: "g5m5HwL7SMYC"
   summary: "An agentic evaluation system that automates benchmark construction and execution while preserving traceable evidence for each evaluation decision."
 
-- title: "Canvas-of-Thought: Grounding Reasoning via Mutable Structured States"
-  authors: "Linzhuang Sun, Yuxia Zhu, Ruitong Liu, Hao Liang, Zheng Sun, Caijun Jia, Honghao He, Yuchen Wu, Siyuan Li, Jingxuan Wei, Xiangxiang Zhang, Bihui Yu, Wentao Zhang"
+- title: "Canvas-of-Thought: Grounding Mathematical Reasoning via Mutable Structured States"
+  selected: true
+  authors: "Linzhuang Sun*, Yuxia Zhu*, Ruitong Liu*, Hao Liang*, Sizhe Qiu*, Zheng Sun, Caijun Jia, Honghao He, Yuchen Wu, Siyuan Li, Jingxuan Wei, Xiangxiang Zhang, Bihui Yu, Wentao Zhang"
   venue: "ACM Multimedia 2026"
   year: "2026"
+  note: "Co-first author"
   paper_url: "https://arxiv.org/abs/2602.10494"
   scholar_id: "70eg2SAEIzsC"
-  summary: "Grounds model reasoning in mutable structured states, enabling intermediate information to be explicitly organized, revised, and reused."
+  summary: "Grounds mathematical reasoning in mutable structured states, enabling intermediate information to be explicitly organized, revised, rendered, and reused throughout the reasoning process."
 
 - title: "MathMixup: Boosting LLM Mathematical Reasoning with Difficulty-Controllable Data Synthesis and Curriculum Learning"
   authors: "Xuchen Li, Jing Chen, Xuzhao Li, Hao Liang, Xiaohuan Zhou, Taifeng Wang, Wentao Zhang"
@@ -180,6 +182,16 @@
   paper_url: "https://aclanthology.org/2026.findings-acl.1647/"
   scholar_id: "KxtntwgDAa4C"
   summary: "Develops a verifier for assessing long, complex tool-use trajectories in realistic environments where correctness depends on both actions and intermediate state."
+
+- title: "Guided Verifier: Collaborative Multimodal Reasoning via Dynamic Process Supervision"
+  selected: true
+  authors: "Linzhuang Sun*, Ruitong Liu*, Yuxia Zhu*, Hao Liang*, Sizhe Qiu*, Xiaohan Xu, Jingxuan Wei, Xiangxiang Zhang, Bihui Yu, Zhengzhou Zhu"
+  venue: "Technical report"
+  year: "2026"
+  note: "Co-first author"
+  paper_url: "https://arxiv.org/abs/2602.04290"
+  scholar_id: ""
+  summary: "Introduces a dynamic verifier that collaborates with the policy during multimodal reasoning, providing process-level guidance to detect errors and steer rollouts toward valid trajectories."
 
 - title: "DataPrep-Bench: Benchmarking LLMs as Training Data Preparators"
   selected: true
@@ -260,6 +272,16 @@
   paper_url: "https://arxiv.org/abs/2501.15368"
   scholar_id: "Se3iqnhoufwC"
   summary: "Introduces an omni-modal model with end-to-end audio generation, supported by a large-scale multimodal data cleaning and synthesis pipeline and multi-stage training."
+
+- title: "CapGeo-Bench: Decoupling Visual Perception from Reasoning and Evaluating Geometric Understanding"
+  selected: true
+  authors: "Yuying Li*, Siyi Qian*, Hao Liang*, Leqi Zheng, Ruichuan An, Linzhuang Sun, Jiajun Zhang, Wentao Zhang"
+  venue: "Technical report"
+  year: "2025"
+  note: "Co-first author"
+  paper_url: "https://arxiv.org/abs/2510.09302"
+  scholar_id: ""
+  summary: "Decouples visual perception from mathematical reasoning through structured geometric captions and introduces CapGeo-Bench for evaluating models' geometric understanding and captioning quality."
 
 - title: "UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens"
   authors: "Ruichuan An, Sihan Yang, Renrui Zhang, Zijun Shen, Ming Lu, Gaole Dai, Hao Liang, Ziyu Guo, Shilin Yan, Yulin Luo, Bocheng Zou, Chaoqun Yang, Wentao Zhang"
