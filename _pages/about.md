@@ -20,23 +20,49 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 
 ## Let's Connect
 
-I would be especially glad to connect with:
+<section class="connect-panel" aria-label="Ways to connect">
+  <div class="connect-grid">
+    <article class="connect-card">
+      <header class="connect-card__header">
+        <span class="connect-card__icon" aria-hidden="true"><i class="fa-solid fa-users"></i></span>
+        <div>
+          <span class="connect-card__eyebrow">Community</span>
+          <h3>Who I'd like to meet</h3>
+        </div>
+      </header>
+      <ul class="connect-card__list">
+        <li><strong>AI data & model training</strong><span>Researchers and engineers working on post-training and agents</span></li>
+        <li><strong>Model & product teams</strong><span>Foundation-model companies, agent teams, and enterprise AI leaders</span></li>
+        <li><strong>AI founders</strong><span>Builders navigating ToB adoption, commercialization, and team growth</span></li>
+        <li><strong>Future researchers</strong><span>Students interested in PKU-DCAI Lab internships or graduate study</span></li>
+      </ul>
+    </article>
 
-- Researchers and engineers working on AI data, large-model training, post-training, and agents
-- Foundation-model companies, agent product teams, and enterprise AI leaders
-- AI founders navigating enterprise adoption, commercialization, and team building
-- Students interested in research internships or graduate study opportunities at PKU-DCAI Lab
+    <article class="connect-card">
+      <header class="connect-card__header">
+        <span class="connect-card__icon" aria-hidden="true"><i class="fa-solid fa-comments"></i></span>
+        <div>
+          <span class="connect-card__eyebrow">Conversation</span>
+          <h3>What we can discuss</h3>
+        </div>
+      </header>
+      <ul class="connect-card__list">
+        <li><strong>Data flywheels</strong><span>Generation, selection, verification, and closed-loop training</span></li>
+        <li><strong>Building an AI data company</strong><span>Products, enterprise delivery, and commercialization</span></li>
+        <li><strong>Open-source systems</strong><span>DataFlow, DataFlex, DataMind, and the ideas behind them</span></li>
+        <li><strong>PKU-DCAI Lab</strong><span>Research internships and graduate study opportunities</span></li>
+      </ul>
+    </article>
+  </div>
 
-Topics I am happy to discuss include:
-
-- Data generation, selection, verification, and closed-loop training for large models and agents
-- Building an AI data company, product deployment, and commercial delivery
-- Open-source projects including DataFlow, DataFlex, and DataMind
-- Research internships and graduate study opportunities at PKU-DCAI Lab
-
-If you are working on AI data, large models, or agents—or are interested in joining PKU-DCAI Lab as a research intern or graduate student—feel free to reach out. I hope to meet people with whom I can exchange ideas, build things, and collaborate over the long term.
-
-**WeChat:** 13241935113 · **Email:** [hao.liang@stu.pku.edu.cn](mailto:hao.liang@stu.pku.edu.cn)
+  <div class="connect-callout">
+    <p>If you are working on AI data, large models, or agents—or are interested in PKU-DCAI Lab—let's connect. I hope to meet people with whom I can exchange ideas, build things, and collaborate over the long term.</p>
+    <div class="connect-actions">
+      <span class="connect-action connect-action--static"><i class="fa-brands fa-weixin" aria-hidden="true"></i><span><small>WeChat</small>13241935113</span></span>
+      <a class="connect-action" href="mailto:hao.liang@stu.pku.edu.cn"><i class="fa-solid fa-envelope" aria-hidden="true"></i><span><small>Email</small>hao.liang@stu.pku.edu.cn</span></a>
+    </div>
+  </div>
+</section>
 
 ## News
 
@@ -58,17 +84,59 @@ If you are working on AI data, large models, or agents—or are interested in jo
 
 ## Research Interests
 
-My research focuses on **Data-Centric AI** along four directions. For broader context, see our surveys on [text-centric](https://link.springer.com/article/10.1007/s11390-026-5948-8) and [multimodal](https://arxiv.org/abs/2405.16640) perspectives.
+<section class="research-overview" aria-label="Research directions">
+  <div class="research-intro">
+    <span class="research-intro__label">Data-Centric AI</span>
+    <p>My research connects data, models, and real-world systems across four directions. For broader context, see our surveys from <a href="https://link.springer.com/article/10.1007/s11390-026-5948-8">text-centric</a> and <a href="https://arxiv.org/abs/2405.16640">multimodal</a> perspectives.</p>
+  </div>
 
-1. **Data Attribution & Data–Model Interaction** *(primary focus)* — Understanding how individual data shapes model behavior through attribution, and closing the loop between data and models during training via dynamic selection, mixture, and reweighting. This is the core idea behind [DataFlex](https://github.com/OpenDCAI/DataFlex), our data-centric training framework; a conceptual overview appears in [Towards Next-Generation LLM Training: From the Data-Centric Perspective](https://arxiv.org/abs/2603.14712).
+  <div class="research-grid">
+    <article class="research-card research-card--primary">
+      <span class="research-card__number" aria-hidden="true">01</span>
+      <header class="research-card__header">
+        <h3>Data Attribution & Data–Model Interaction</h3>
+        <span class="research-card__badge">Primary focus</span>
+      </header>
+      <p>Understanding how individual data shapes model behavior, then closing the training loop through dynamic selection, mixture, and reweighting.</p>
+      <div class="research-card__links">
+        <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
+        <a href="https://arxiv.org/abs/2603.14712">Perspective paper</a>
+      </div>
+    </article>
 
-2. **Data Self-Evolution** — Building feedback-driven loops in which models and agents continuously generate, evaluate, select, refine, and reuse data, so datasets and data workflows co-evolve with model capabilities and task demands. I am particularly interested in on-policy feedback, weakness-targeted synthesis, executable verification, and the reuse of trajectories, skills, and memory as data.
+    <article class="research-card">
+      <span class="research-card__number" aria-hidden="true">02</span>
+      <header class="research-card__header"><h3>Data Self-Evolution</h3></header>
+      <p>Building feedback-driven loops in which models and agents continuously generate, evaluate, select, refine, and reuse data as capabilities evolve.</p>
+      <div class="research-card__keywords"><span>On-policy feedback</span><span>Targeted synthesis</span><span>Executable verification</span><span>Skills & memory</span></div>
+    </article>
 
-3. **Data Infrastructure** — Building scalable infrastructure across the full data lifecycle: [DataFlow](https://github.com/OpenDCAI/DataFlow) for composable data preparation and workflow automation, [DataFlex](https://github.com/OpenDCAI/DataFlex) for dynamic sample selection, data mixture, and reweighting during training, and [DataMind](https://github.com/haolpku/DataMind) for inference-time knowledge access through RAG, GraphRAG, SQL, skills, and memory.
+    <article class="research-card">
+      <span class="research-card__number" aria-hidden="true">03</span>
+      <header class="research-card__header"><h3>Data Infrastructure</h3></header>
+      <p>Scalable infrastructure across the full data lifecycle—from preparation and training-time adaptation to inference-time knowledge access.</p>
+      <div class="research-card__links research-card__links--projects">
+        <a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a>
+        <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
+        <a href="https://github.com/haolpku/DataMind">DataMind</a>
+      </div>
+    </article>
 
-4. **Domain Data: Datasets & Benchmarks** — Constructing effective, verifiable datasets and benchmarks for high-value domains, including mathematics, formal reasoning and verification with [Lean](https://lean-lang.org/), workplace tasks, and coding. I focus on principled task design, data construction, quality control, and evaluation protocols. Representative work includes [MathScape](https://dl.acm.org/doi/abs/10.1145/3746027.3758240), [MM-Verify](https://aclanthology.org/2025.acl-long.689/), [Let's Verify Math Questions Step by Step](https://arxiv.org/abs/2505.13903), and [K12-KGraph](https://huggingface.co/papers/2605.09635).
+    <article class="research-card">
+      <span class="research-card__number" aria-hidden="true">04</span>
+      <header class="research-card__header"><h3>Domain Data: Datasets & Benchmarks</h3></header>
+      <p>Constructing effective, verifiable datasets and evaluation protocols for mathematics, <a href="https://lean-lang.org/">Lean</a>, workplace tasks, coding, and other high-value domains.</p>
+      <div class="research-card__links">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758240">MathScape</a>
+        <a href="https://aclanthology.org/2025.acl-long.689/">MM-Verify</a>
+        <a href="https://arxiv.org/abs/2505.13903">Math Verification</a>
+        <a href="https://huggingface.co/papers/2605.09635">K12-KGraph</a>
+      </div>
+    </article>
+  </div>
 
-I have published 10+ first-author / co-first-author papers at CCF-A venues and received the **Sa Shixuan Best Student Paper Award** at NDBC.
+  <p class="research-footnote"><strong>10+ first/co-first-author papers</strong> at CCF-A venues · <strong>Sa Shixuan Best Student Paper Award</strong> at NDBC</p>
+</section>
 
 ## Open-Source Contributions
 

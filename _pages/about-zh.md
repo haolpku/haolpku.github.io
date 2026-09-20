@@ -18,23 +18,49 @@ translation_label: EN
 
 ## 欢迎交流
 
-我尤其希望认识以下方向的朋友：
+<section class="connect-panel" aria-label="交流方向">
+  <div class="connect-grid">
+    <article class="connect-card">
+      <header class="connect-card__header">
+        <span class="connect-card__icon" aria-hidden="true"><i class="fa-solid fa-users"></i></span>
+        <div>
+          <span class="connect-card__eyebrow">认识同行</span>
+          <h3>我希望认识</h3>
+        </div>
+      </header>
+      <ul class="connect-card__list">
+        <li><strong>AI 数据与模型训练</strong><span>大模型训练、Post-training 与 Agent 方向的研究者和工程师</span></li>
+        <li><strong>模型与产品团队</strong><span>模型公司、Agent 产品团队与企业 AI 负责人</span></li>
+        <li><strong>AI 创业者</strong><span>正在经历 ToB 落地、商业化和团队建设的同行</span></li>
+        <li><strong>未来的研究伙伴</strong><span>对 PKU-DCAI Lab 科研实习或读研感兴趣的同学</span></li>
+      </ul>
+    </article>
 
-- AI 数据、大模型训练、Post-training 与 Agent 方向的研究者和工程师
-- 模型公司、Agent 产品团队与企业 AI 负责人
-- 正在经历 ToB 落地、商业化和团队建设的 AI 创业者
-- 对 PKU-DCAI Lab 科研实习或读研机会感兴趣的同学
+    <article class="connect-card">
+      <header class="connect-card__header">
+        <span class="connect-card__icon" aria-hidden="true"><i class="fa-solid fa-comments"></i></span>
+        <div>
+          <span class="connect-card__eyebrow">交流话题</span>
+          <h3>我们可以聊</h3>
+        </div>
+      </header>
+      <ul class="connect-card__list">
+        <li><strong>数据飞轮</strong><span>大模型与 Agent 数据的生成、筛选、验证及训练闭环</span></li>
+        <li><strong>AI 数据公司创业</strong><span>产品落地、企业交付与商业化经验</span></li>
+        <li><strong>开源系统</strong><span>DataFlow、DataFlex、DataMind 及其背后的思考</span></li>
+        <li><strong>PKU-DCAI Lab</strong><span>科研实习与读研机会</span></li>
+      </ul>
+    </article>
+  </div>
 
-我可以和你交流：
-
-- 大模型与 Agent 数据的生成、筛选、验证及训练闭环
-- AI 数据公司的创业、产品落地与商业交付经验
-- DataFlow、DataFlex、DataMind 等开源项目
-- PKU-DCAI Lab 科研实习与读研机会
-
-如果你也在做 AI 数据、大模型或 Agent，或者对 PKU-DCAI Lab 的科研实习与读研机会感兴趣，欢迎来聊聊～希望认识一些能长期交流、一起做事的朋友。
-
-**微信：** 13241935113 · **邮箱：** [hao.liang@stu.pku.edu.cn](mailto:hao.liang@stu.pku.edu.cn)
+  <div class="connect-callout">
+    <p>如果你也在做 AI 数据、大模型或 Agent，或者对 PKU-DCAI Lab 感兴趣，欢迎来聊聊～希望认识一些能长期交流、一起做事的朋友。</p>
+    <div class="connect-actions">
+      <span class="connect-action connect-action--static"><i class="fa-brands fa-weixin" aria-hidden="true"></i><span><small>微信</small>13241935113</span></span>
+      <a class="connect-action" href="mailto:hao.liang@stu.pku.edu.cn"><i class="fa-solid fa-envelope" aria-hidden="true"></i><span><small>邮箱</small>hao.liang@stu.pku.edu.cn</span></a>
+    </div>
+  </div>
+</section>
 
 ## 最新动态
 
@@ -56,17 +82,59 @@ translation_label: EN
 
 ## 研究方向
 
-我的研究聚焦于 **Data-Centric AI（以数据为中心的人工智能）**，主要包括以下四个方向。更完整的研究背景可参考我们关于[文本数据](https://link.springer.com/article/10.1007/s11390-026-5948-8)和[多模态数据](https://arxiv.org/abs/2405.16640)的综述。
+<section class="research-overview" aria-label="研究方向">
+  <div class="research-intro">
+    <span class="research-intro__label">Data-Centric AI</span>
+    <p>我的研究从数据出发，连接模型训练、能力演化与真实系统，主要包括以下四个方向。完整背景可参考我们关于<a href="https://link.springer.com/article/10.1007/s11390-026-5948-8">文本数据</a>和<a href="https://arxiv.org/abs/2405.16640">多模态数据</a>的综述。</p>
+  </div>
 
-1. **数据归因与数据—模型交互** *（主要方向）* — 研究单条数据如何影响模型行为，并在训练过程中通过动态选择、混合和重加权建立数据与模型的闭环交互。这也是数据中心训练框架 [DataFlex](https://github.com/OpenDCAI/DataFlex) 的核心思想；概念性介绍可参考 [Towards Next-Generation LLM Training: From the Data-Centric Perspective](https://arxiv.org/abs/2603.14712)。
+  <div class="research-grid">
+    <article class="research-card research-card--primary">
+      <span class="research-card__number" aria-hidden="true">01</span>
+      <header class="research-card__header">
+        <h3>数据归因与数据—模型交互</h3>
+        <span class="research-card__badge">主要方向</span>
+      </header>
+      <p>研究单条数据如何影响模型行为，并通过动态选择、混合和重加权，在训练过程中建立数据与模型的闭环交互。</p>
+      <div class="research-card__links">
+        <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
+        <a href="https://arxiv.org/abs/2603.14712">概念性论文</a>
+      </div>
+    </article>
 
-2. **数据自进化** — 构建由模型与 Agent 反馈驱动的数据闭环，使数据能够持续生成、评估、筛选、修正与复用，并随模型能力和任务需求共同演化。我重点关注 On-policy 反馈、针对模型弱点的数据合成、可执行验证，以及将轨迹、Skills 和 Memory 作为可持续演化的数据资产。
+    <article class="research-card">
+      <span class="research-card__number" aria-hidden="true">02</span>
+      <header class="research-card__header"><h3>数据自进化</h3></header>
+      <p>构建模型与 Agent 反馈驱动的数据闭环，让数据随模型能力和任务需求持续生成、评估、筛选、修正与复用。</p>
+      <div class="research-card__keywords"><span>On-policy 反馈</span><span>弱点定向合成</span><span>可执行验证</span><span>Skills & Memory</span></div>
+    </article>
 
-3. **数据基础设施** — 构建覆盖完整数据生命周期的可扩展基础设施：[DataFlow](https://github.com/OpenDCAI/DataFlow) 负责可组合的数据准备与工作流自动化，[DataFlex](https://github.com/OpenDCAI/DataFlex) 负责训练过程中的动态样本选择、数据混合与重加权，[DataMind](https://github.com/haolpku/DataMind) 负责通过 RAG、GraphRAG、SQL、Skills 和 Memory 实现推理期知识访问。
+    <article class="research-card">
+      <span class="research-card__number" aria-hidden="true">03</span>
+      <header class="research-card__header"><h3>数据基础设施</h3></header>
+      <p>构建覆盖完整数据生命周期的可扩展基础设施，从数据准备、训练期动态适配延伸到推理期知识访问。</p>
+      <div class="research-card__links research-card__links--projects">
+        <a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a>
+        <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
+        <a href="https://github.com/haolpku/DataMind">DataMind</a>
+      </div>
+    </article>
 
-4. **领域数据：Datasets & Benchmarks** — 面向数学、[Lean](https://lean-lang.org/) 形式化推理与验证、工作场景、代码等高价值领域，构建有效且可验证的数据集与基准。我重点关注合理的任务定义、数据构建、质量控制和评测协议。代表工作包括 [MathScape](https://dl.acm.org/doi/abs/10.1145/3746027.3758240)、[MM-Verify](https://aclanthology.org/2025.acl-long.689/)、[Let's Verify Math Questions Step by Step](https://arxiv.org/abs/2505.13903) 和 [K12-KGraph](https://huggingface.co/papers/2605.09635)。
+    <article class="research-card">
+      <span class="research-card__number" aria-hidden="true">04</span>
+      <header class="research-card__header"><h3>领域数据：Datasets & Benchmarks</h3></header>
+      <p>面向数学、<a href="https://lean-lang.org/">Lean</a> 形式化推理与验证、工作场景、代码等高价值领域，构建有效且可验证的数据集与评测协议。</p>
+      <div class="research-card__links">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758240">MathScape</a>
+        <a href="https://aclanthology.org/2025.acl-long.689/">MM-Verify</a>
+        <a href="https://arxiv.org/abs/2505.13903">数学验证</a>
+        <a href="https://huggingface.co/papers/2605.09635">K12-KGraph</a>
+      </div>
+    </article>
+  </div>
 
-我已在 CCF-A 类会议发表 **10+ 篇一作或共同一作论文**，并获得 NDBC **萨师煊优秀学生论文奖**。
+  <p class="research-footnote">已在 CCF-A 类会议发表 <strong>10+ 篇一作或共同一作论文</strong> · 获 NDBC <strong>萨师煊优秀学生论文奖</strong></p>
+</section>
 
 ## 开源项目
 
