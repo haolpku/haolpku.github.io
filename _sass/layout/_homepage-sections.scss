@@ -469,6 +469,16 @@
     margin: 0;
     font-size: 0.93rem;
     line-height: 1.35;
+
+    a {
+      color: inherit;
+      text-decoration: none;
+
+      &:hover {
+        color: var(--global-link-color);
+        text-decoration: none;
+      }
+    }
   }
 
   p {
@@ -481,21 +491,6 @@
 
 .honor-entry:last-child .honor-entry__content {
   border-bottom: 0;
-}
-
-.honor-entry--featured {
-  .honor-entry__year,
-  h3 {
-    color: var(--global-link-color);
-  }
-
-  &:before {
-    width: 0.52rem;
-    height: 0.52rem;
-    left: 3.83rem;
-    background: #f2b84b;
-    box-shadow: 0 0 0 1px #f2b84b;
-  }
 }
 
 @media (max-width: 768px) {

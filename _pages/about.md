@@ -14,7 +14,7 @@ I am Hao Liang (梁昊), a Ph.D. candidate at Center for Data Science, [Peking U
 
 Prior to this, I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/), where I was awarded the Xu Teli Scholarship (the highest honor of BIT) and the National Scholarship. I also visited the [University of Oxford](https://www.ox.ac.uk/), working with Prof. [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/) and Prof. [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
 
-**Research impact:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=HgapY3sAAAAJ) · **4,049+ citations** · **h-index 18** *(as of September 14, 2026)*
+**Research impact:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=HgapY3sAAAAJ) · **4,093+ citations** · **h-index 18** *(as of September 20, 2026)*
 
 **Competition highlights:** 🥇 [ICML 2025 SeePhys Challenge — 1st Place](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025, Track 2 — First Prize](https://www.datafountain.cn/competitions/1098)
 
@@ -186,9 +186,11 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 ## Honors & Awards
 
 <section class="honors-timeline" aria-label="Honors and awards timeline">
-  <article class="honor-entry honor-entry--featured"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>National Scholarship</h3><p>Peking University</p></div></article>
-  <article class="honor-entry honor-entry--featured"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>President's Scholarship</h3><p>Peking University · Second consecutive year</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>National Scholarship</h3><p>Peking University</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>President's Scholarship</h3><p>Peking University · Second consecutive year</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>President's Scholarship</h3><p>Peking University</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3><a href="https://arxiv.org/abs/2509.06079">ICML 2025 SeePhys Challenge — 1st Place</a></h3><p>Multimodal scientific reasoning competition</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3><a href="https://www.datafountain.cn/competitions/1098">BAAI LIC Challenge 2025, Track 2 — First Prize</a></h3><p>Beijing Academy of Artificial Intelligence</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>Industrial Bank Scholarship <span lang="zh-CN">（兴业奖学金）</span></h3><p>Peking University</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>Sa Shixuan Best Student Paper Award <span lang="zh-CN">（萨师煊优秀学生论文奖）</span></h3><p>NDBC</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2023</span><div class="honor-entry__content"><h3>Xu Teli Scholarship <span lang="zh-CN">（徐特立奖学金）</span></h3><p>Beijing Institute of Technology · Highest Honor</p></div></article>

@@ -12,7 +12,7 @@ translation_label: EN
 
 本科毕业于[北京理工大学](https://www.bit.edu.cn/)，曾获徐特立奖学金（北京理工大学最高荣誉）和国家奖学金。我也曾赴[牛津大学](https://www.ox.ac.uk/)访问，与 [Ismail Ilkan Ceylan 教授](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/)和[Michael Bronstein 教授](https://www.cs.ox.ac.uk/people/michael.bronstein/)开展合作。
 
-**学术影响力：** [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ) · **4,049+ 次引用** · **h-index 18** *（截至 2026 年 9 月 14 日）*
+**学术影响力：** [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ) · **4,093+ 次引用** · **h-index 18** *（截至 2026 年 9 月 20 日）*
 
 **竞赛获奖：** 🥇 [ICML 2025 SeePhys Challenge 冠军](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025，Track 2 一等奖](https://www.datafountain.cn/competitions/1098)
 
@@ -182,9 +182,11 @@ translation_label: EN
 ## 荣誉与奖项
 
 <section class="honors-timeline" aria-label="荣誉与奖项时间线">
-  <article class="honor-entry honor-entry--featured"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>国家奖学金</h3><p>北京大学</p></div></article>
-  <article class="honor-entry honor-entry--featured"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>校长奖学金</h3><p>北京大学 · 连续第二年</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>国家奖学金</h3><p>北京大学</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>校长奖学金</h3><p>北京大学 · 连续第二年</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>校长奖学金</h3><p>北京大学</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3><a href="https://arxiv.org/abs/2509.06079">ICML 2025 SeePhys Challenge 冠军</a></h3><p>多模态科学推理竞赛 · 第 1 名</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3><a href="https://www.datafountain.cn/competitions/1098">BAAI LIC Challenge 2025，Track 2 一等奖</a></h3><p>北京智源人工智能研究院</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>兴业奖学金</h3><p>北京大学</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>萨师煊优秀学生论文奖</h3><p>NDBC</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2023</span><div class="honor-entry__content"><h3>徐特立奖学金</h3><p>北京理工大学 · 最高荣誉</p></div></article>
