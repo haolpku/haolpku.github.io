@@ -8,7 +8,7 @@ translation_url: /
 translation_label: EN
 ---
 
-我是梁昊（Hao Liang），[北京大学](https://www.pku.edu.cn/)数据科学中心博士生，联合培养于[北京中关村学院](https://www.bza.edu.cn/)，同时也是一家 **AI 数据公司的联合创始人**。我曾 **连续两次获得北京大学校长奖学金**。我的导师是[张文涛教授](https://zwt233.github.io/)和[董彬教授](http://faculty.bicmr.pku.edu.cn/~dongbin/)，并与[崔斌教授](https://cuibinpku.github.io/)和[鄂维南教授](https://web.math.princeton.edu/~weinan/)保持紧密合作。
+我是梁昊（Hao Liang），[北京大学](https://www.pku.edu.cn/)数据科学中心博士生，联合培养于[北京中关村学院](https://www.bza.edu.cn/)，同时也是一家 **AI 数据公司的联合创始人**。我曾 **连续两年获得北京大学校长奖学金**，并于 **2026 年获得国家奖学金**。我的导师是[张文涛教授](https://zwt233.github.io/)和[董彬教授](http://faculty.bicmr.pku.edu.cn/~dongbin/)，并与[崔斌教授](https://cuibinpku.github.io/)和[鄂维南教授](https://web.math.princeton.edu/~weinan/)保持紧密合作。
 
 本科毕业于[北京理工大学](https://www.bit.edu.cn/)，曾获徐特立奖学金（北京理工大学最高荣誉）和国家奖学金。我也曾赴[牛津大学](https://www.ox.ac.uk/)访问，与 [Ismail Ilkan Ceylan 教授](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/)和[Michael Bronstein 教授](https://www.cs.ox.ac.uk/people/michael.bronstein/)开展合作。
 
@@ -138,15 +138,55 @@ translation_label: EN
 
 ## 开源项目
 
-- **[DataFlow](https://github.com/OpenDCAI/DataFlow)** [![DataFlow stars](https://img.shields.io/github/stars/OpenDCAI/DataFlow?style=flat&logo=github&label=stars&color=181717)](https://github.com/OpenDCAI/DataFlow) — 核心设计者。DataFlow 是一套开源大模型数据准备框架（*“Generate, Clean, and Prepare LLM Data, All-in-One”*），通过算子化工作流支持多领域的数据生成、清洗和评测，并获得 ICML SeePhys Challenge 冠军与 BAAI LIC Challenge 一等奖。
-- **[DataFlex](https://github.com/OpenDCAI/DataFlex)** [![DataFlex stars](https://img.shields.io/github/stars/OpenDCAI/DataFlex?style=flat&logo=github&label=stars&color=181717)](https://github.com/OpenDCAI/DataFlex) — 核心设计者。DataFlex 是构建在 LLaMA-Factory 之上的数据中心动态训练框架（*“Data Select · Mix · Reweight — Right in the LLM Training Loop”*），支持在训练闭环中动态完成数据选择、混合与重加权。
-- **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** [![LLaMA-Factory stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=flat&logo=github&label=stars&color=181717)](https://github.com/hiyouga/LLaMA-Factory) — 参与数据模块设计。
-- **[CAMEL](https://github.com/camel-ai/camel)** [![CAMEL stars](https://img.shields.io/github/stars/camel-ai/camel?style=flat&logo=github&label=stars&color=181717)](https://github.com/camel-ai/camel) — 将 DataFlow 集成至 CAMEL 数据工作流。
+<section class="oss-ledger" aria-label="开源项目">
+  <article class="oss-project">
+    <span class="oss-project__index" aria-hidden="true">01</span>
+    <div class="oss-project__identity">
+      <div class="oss-project__title"><h3><a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a></h3><a href="https://github.com/OpenDCAI/DataFlow" aria-label="DataFlow stars"><img src="https://img.shields.io/github/stars/OpenDCAI/DataFlow?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="DataFlow stars"></a></div>
+      <span class="oss-project__role">核心设计者</span>
+    </div>
+    <div class="oss-project__body">
+      <p><em>Generate, Clean, and Prepare LLM Data, All-in-One.</em> 通过算子化工作流支持跨领域的数据生成、清洗、评测与流程自动化。</p>
+      <div class="oss-project__highlights"><span>ICML SeePhys · 冠军</span><span>BAAI LIC · 一等奖</span></div>
+    </div>
+  </article>
+
+  <article class="oss-project">
+    <span class="oss-project__index" aria-hidden="true">02</span>
+    <div class="oss-project__identity">
+      <div class="oss-project__title"><h3><a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a></h3><a href="https://github.com/OpenDCAI/DataFlex" aria-label="DataFlex stars"><img src="https://img.shields.io/github/stars/OpenDCAI/DataFlex?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="DataFlex stars"></a></div>
+      <span class="oss-project__role">核心设计者</span>
+    </div>
+    <div class="oss-project__body"><p><em>Data Select · Mix · Reweight—right in the LLM training loop.</em> 构建在 LLaMA-Factory 之上的数据中心动态训练框架。</p></div>
+  </article>
+
+  <article class="oss-project">
+    <span class="oss-project__index" aria-hidden="true">03</span>
+    <div class="oss-project__identity">
+      <div class="oss-project__title"><h3><a href="https://github.com/hiyouga/LLaMA-Factory">LLaMA-Factory</a></h3><a href="https://github.com/hiyouga/LLaMA-Factory" aria-label="LLaMA-Factory stars"><img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="LLaMA-Factory stars"></a></div>
+      <span class="oss-project__role">参与贡献</span>
+    </div>
+    <div class="oss-project__body"><p>参与统一大模型微调框架的数据模块设计。</p></div>
+  </article>
+
+  <article class="oss-project">
+    <span class="oss-project__index" aria-hidden="true">04</span>
+    <div class="oss-project__identity">
+      <div class="oss-project__title"><h3><a href="https://github.com/camel-ai/camel">CAMEL</a></h3><a href="https://github.com/camel-ai/camel" aria-label="CAMEL stars"><img src="https://img.shields.io/github/stars/camel-ai/camel?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="CAMEL stars"></a></div>
+      <span class="oss-project__role">生态集成</span>
+    </div>
+    <div class="oss-project__body"><p>将 DataFlow 集成至 CAMEL 数据管线，支持 Agent 驱动的数据工作流。</p></div>
+  </article>
+</section>
 
 ## 荣誉与奖项
 
-- **北京大学校长奖学金**（连续两次）
-- **北京大学兴业奖学金**
-- **北京理工大学徐特立奖学金**（最高荣誉）
-- **国家奖学金**
-- **NDBC 萨师煊优秀学生论文奖**
+<section class="honors-timeline" aria-label="荣誉与奖项时间线">
+  <article class="honor-entry honor-entry--featured"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>国家奖学金</h3><p>北京大学</p></div></article>
+  <article class="honor-entry honor-entry--featured"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>校长奖学金</h3><p>北京大学 · 连续第二年</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>校长奖学金</h3><p>北京大学</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>兴业奖学金</h3><p>北京大学</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>萨师煊优秀学生论文奖</h3><p>NDBC</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2023</span><div class="honor-entry__content"><h3>徐特立奖学金</h3><p>北京理工大学 · 最高荣誉</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2020</span><div class="honor-entry__content"><h3>国家奖学金</h3><p>北京理工大学</p></div></article>
+</section>

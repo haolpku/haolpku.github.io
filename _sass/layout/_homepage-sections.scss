@@ -313,6 +313,191 @@
   text-align: center;
 }
 
+/* Open-source work is presented as a ledger rather than another card grid. */
+.oss-ledger {
+  margin: 0.25rem 0 1.9rem;
+  border-top: 1px solid var(--global-border-color);
+}
+
+.oss-project {
+  display: grid;
+  grid-template-columns: 2.1rem minmax(10.5rem, 0.72fr) minmax(0, 1.35fr);
+  gap: 0.8rem;
+  align-items: start;
+  padding: 1rem 0.15rem;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.oss-project__index {
+  padding-top: 0.12rem;
+  color: var(--global-link-color);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+.oss-project__title {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.42rem;
+
+  h3 {
+    margin: 0;
+    font-size: 1.03rem;
+    line-height: 1.25;
+  }
+
+  img {
+    display: block;
+    height: 1.15rem;
+    margin: 0;
+    border: 0;
+    box-shadow: none;
+  }
+}
+
+.page__content .oss-project__title a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.oss-project__role {
+  display: inline-block;
+  margin-top: 0.35rem;
+  color: var(--global-text-color);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  opacity: 0.72;
+  text-transform: uppercase;
+}
+
+.oss-project__body {
+  p {
+    margin: 0;
+    font-size: 0.86em;
+    line-height: 1.52;
+  }
+
+  em {
+    font-weight: 600;
+  }
+}
+
+.oss-project__highlights {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.55rem;
+
+  span {
+    position: relative;
+    padding-left: 0.7rem;
+    color: var(--global-link-color);
+    font-size: 0.7rem;
+    font-weight: 700;
+
+    &:before {
+      content: "";
+      position: absolute;
+      top: 0.48em;
+      left: 0;
+      width: 0.3rem;
+      height: 0.3rem;
+      border-radius: 50%;
+      background: #f2b84b;
+    }
+  }
+}
+
+/* A compact chronological line keeps awards distinct without more boxes. */
+.honors-timeline {
+  position: relative;
+  margin: 0.2rem 0 1.5rem;
+
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0.65rem;
+    bottom: 0.65rem;
+    left: 4.1rem;
+    width: 1px;
+    background: var(--global-border-color);
+  }
+}
+
+.honor-entry {
+  position: relative;
+  display: grid;
+  grid-template-columns: 3.35rem minmax(0, 1fr);
+  gap: 1.55rem;
+  align-items: start;
+
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0.62rem;
+    left: 3.88rem;
+    z-index: 1;
+    width: 0.42rem;
+    height: 0.42rem;
+    border: 2px solid var(--global-bg-color);
+    border-radius: 50%;
+    background: var(--global-link-color);
+    box-shadow: 0 0 0 1px var(--global-link-color);
+  }
+}
+
+.honor-entry__year {
+  padding-top: 0.26rem;
+  color: var(--global-link-color);
+  font-size: 0.73rem;
+  font-weight: 800;
+  letter-spacing: 0.035em;
+  text-align: right;
+}
+
+.honor-entry__content {
+  padding: 0.15rem 0 0.72rem;
+  border-bottom: 1px solid var(--global-border-color);
+
+  h3 {
+    margin: 0;
+    font-size: 0.93rem;
+    line-height: 1.35;
+  }
+
+  p {
+    margin: 0.12rem 0 0;
+    font-size: 0.75em;
+    line-height: 1.4;
+    opacity: 0.75;
+  }
+}
+
+.honor-entry:last-child .honor-entry__content {
+  border-bottom: 0;
+}
+
+.honor-entry--featured {
+  .honor-entry__year,
+  h3 {
+    color: var(--global-link-color);
+  }
+
+  &:before {
+    width: 0.52rem;
+    height: 0.52rem;
+    left: 3.83rem;
+    background: #f2b84b;
+    box-shadow: 0 0 0 1px #f2b84b;
+  }
+}
+
 @media (max-width: 768px) {
   .connect-grid,
   .research-grid {
@@ -326,6 +511,14 @@
   .research-intro__label {
     display: inline-flex;
     margin: 0 0 0.55rem;
+  }
+
+  .oss-project {
+    grid-template-columns: 1.8rem minmax(0, 1fr);
+  }
+
+  .oss-project__body {
+    grid-column: 2;
   }
 }
 

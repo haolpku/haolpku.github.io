@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hao Liang (梁昊), a Ph.D. candidate at Center for Data Science, [Peking University](https://www.pku.edu.cn/), jointly affiliated with [Zhongguancun Academy](https://www.bza.edu.cn/), and the **co-founder of an AI data company**. I am a **two-time recipient of the President's Scholarship at Peking University**. I am fortunate to be supervised by Prof. [Wentao Zhang](https://zwt233.github.io/) and Prof. [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/), and to work closely with Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Weinan E](https://web.math.princeton.edu/~weinan/).
+I am Hao Liang (梁昊), a Ph.D. candidate at Center for Data Science, [Peking University](https://www.pku.edu.cn/), jointly affiliated with [Zhongguancun Academy](https://www.bza.edu.cn/), and the **co-founder of an AI data company**. I am a **two-time recipient of the President's Scholarship at Peking University** and received the **National Scholarship in 2026**. I am fortunate to be supervised by Prof. [Wentao Zhang](https://zwt233.github.io/) and Prof. [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/), and to work closely with Prof. [Bin Cui](https://cuibinpku.github.io/) and Prof. [Weinan E](https://web.math.princeton.edu/~weinan/).
 
 Prior to this, I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/), where I was awarded the Xu Teli Scholarship (the highest honor of BIT) and the National Scholarship. I also visited the [University of Oxford](https://www.ox.ac.uk/), working with Prof. [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/) and Prof. [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
 
@@ -140,15 +140,57 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 
 ## Open-Source Contributions
 
-- **[DataFlow](https://github.com/OpenDCAI/DataFlow)** [![DataFlow stars](https://img.shields.io/github/stars/OpenDCAI/DataFlow?style=flat&logo=github&label=stars&color=181717)](https://github.com/OpenDCAI/DataFlow) — Lead designer of this open-source LLM data-preparation framework (*"Generate, Clean, and Prepare LLM Data, All-in-One"*). It provides operator-based pipelines for data synthesis, cleaning, and evaluation across domains, and won **1st place** in the ICML SeePhys Challenge and **first prize** in the BAAI LIC Challenge.
-- **[DataFlex](https://github.com/OpenDCAI/DataFlex)** [![DataFlex stars](https://img.shields.io/github/stars/OpenDCAI/DataFlex?style=flat&logo=github&label=stars&color=181717)](https://github.com/OpenDCAI/DataFlex) — Lead designer of this open-source data-centric training framework built on LLaMA-Factory (*"Data Select · Mix · Reweight — Right in the LLM Training Loop"*), enabling dynamic data selection, mixture, and reweighting inside the training loop.
-- **[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)** [![LLaMA-Factory stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=flat&logo=github&label=stars&color=181717)](https://github.com/hiyouga/LLaMA-Factory) — Contributed to the data module design.
-- **[CAMEL](https://github.com/camel-ai/camel)** [![CAMEL stars](https://img.shields.io/github/stars/camel-ai/camel?style=flat&logo=github&label=stars&color=181717)](https://github.com/camel-ai/camel) — Integrated DataFlow into CAMEL's data pipeline.
+<section class="oss-ledger" aria-label="Open-source projects">
+  <article class="oss-project">
+    <span class="oss-project__index" aria-hidden="true">01</span>
+    <div class="oss-project__identity">
+      <div class="oss-project__title"><h3><a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a></h3><a href="https://github.com/OpenDCAI/DataFlow" aria-label="DataFlow stars"><img src="https://img.shields.io/github/stars/OpenDCAI/DataFlow?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="DataFlow stars"></a></div>
+      <span class="oss-project__role">Lead designer</span>
+    </div>
+    <div class="oss-project__body">
+      <p><em>Generate, Clean, and Prepare LLM Data, All-in-One.</em> An operator-based framework for data synthesis, cleaning, evaluation, and cross-domain workflow automation.</p>
+      <div class="oss-project__highlights"><span>ICML SeePhys · 1st Place</span><span>BAAI LIC · First Prize</span></div>
+    </div>
+  </article>
+
+  <article class="oss-project">
+    <span class="oss-project__index" aria-hidden="true">02</span>
+    <div class="oss-project__identity">
+      <div class="oss-project__title"><h3><a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a></h3><a href="https://github.com/OpenDCAI/DataFlex" aria-label="DataFlex stars"><img src="https://img.shields.io/github/stars/OpenDCAI/DataFlex?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="DataFlex stars"></a></div>
+      <span class="oss-project__role">Lead designer</span>
+    </div>
+    <div class="oss-project__body">
+      <p><em>Data Select · Mix · Reweight—right in the LLM training loop.</em> A data-centric dynamic training framework built on LLaMA-Factory.</p>
+    </div>
+  </article>
+
+  <article class="oss-project">
+    <span class="oss-project__index" aria-hidden="true">03</span>
+    <div class="oss-project__identity">
+      <div class="oss-project__title"><h3><a href="https://github.com/hiyouga/LLaMA-Factory">LLaMA-Factory</a></h3><a href="https://github.com/hiyouga/LLaMA-Factory" aria-label="LLaMA-Factory stars"><img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="LLaMA-Factory stars"></a></div>
+      <span class="oss-project__role">Contributor</span>
+    </div>
+    <div class="oss-project__body"><p>Contributed to the data module design of the unified large-model fine-tuning framework.</p></div>
+  </article>
+
+  <article class="oss-project">
+    <span class="oss-project__index" aria-hidden="true">04</span>
+    <div class="oss-project__identity">
+      <div class="oss-project__title"><h3><a href="https://github.com/camel-ai/camel">CAMEL</a></h3><a href="https://github.com/camel-ai/camel" aria-label="CAMEL stars"><img src="https://img.shields.io/github/stars/camel-ai/camel?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="CAMEL stars"></a></div>
+      <span class="oss-project__role">Integration</span>
+    </div>
+    <div class="oss-project__body"><p>Integrated DataFlow into CAMEL's data pipeline for agent-driven data workflows.</p></div>
+  </article>
+</section>
 
 ## Honors & Awards
 
-- **President's Scholarship**, Peking University
-- **Industrial Bank Scholarship (兴业奖学金)**, Peking University
-- **Xu Teli Scholarship (徐特立奖学金)**, Beijing Institute of Technology (Highest Honor)
-- **National Scholarship**, Beijing Institute of Technology
-- **Sa Shixuan Best Student Paper Award (萨师煊优秀学生论文奖)**, NDBC
+<section class="honors-timeline" aria-label="Honors and awards timeline">
+  <article class="honor-entry honor-entry--featured"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>National Scholarship</h3><p>Peking University</p></div></article>
+  <article class="honor-entry honor-entry--featured"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>President's Scholarship</h3><p>Peking University · Second consecutive year</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>President's Scholarship</h3><p>Peking University</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>Industrial Bank Scholarship <span lang="zh-CN">（兴业奖学金）</span></h3><p>Peking University</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>Sa Shixuan Best Student Paper Award <span lang="zh-CN">（萨师煊优秀学生论文奖）</span></h3><p>NDBC</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2023</span><div class="honor-entry__content"><h3>Xu Teli Scholarship <span lang="zh-CN">（徐特立奖学金）</span></h3><p>Beijing Institute of Technology · Highest Honor</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2020</span><div class="honor-entry__content"><h3>National Scholarship</h3><p>Beijing Institute of Technology</p></div></article>
+</section>
