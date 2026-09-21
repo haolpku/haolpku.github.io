@@ -68,6 +68,7 @@ translation_label: EN
 
 - **2026 年 9 月** 获得 **国家奖学金**。
 - **2026 年 9 月** [DataFlex-RL 论文](https://huggingface.co/papers/2609.06107)登顶 Hugging Face Daily Papers 榜单，排名 **第 1 名**。
+- **2026 年 7 月** [K12-KGraph 项目](https://huggingface.co/papers/2605.09635)在“模塑申城语料普惠计划之 MinerU 前沿语料与数据智能挑战赛”**AGI4S 前沿语料赛道**中获得 **二等奖**。
 - **2026 年 7 月** [K12-KGraph 论文](https://huggingface.co/papers/2605.09635)登上 Hugging Face Daily Papers 榜单 **第 2 名**。
 - **2026 年 7 月** [DataFlow-Harness 论文](https://huggingface.co/papers/2607.16617)登上 Hugging Face Daily Papers 榜单 **第 2 名**。
 - **2026 年 5 月** [DataPrep-Bench 论文](https://huggingface.co/papers/2607.20465)登上 Hugging Face Daily Papers 榜单 **第 1 名**。
@@ -193,6 +194,7 @@ translation_label: EN
 <section class="honors-timeline" aria-label="荣誉与奖项时间线">
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>国家奖学金</h3><p>北京大学</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>校长奖学金</h3><p>北京大学 · 连续第二年</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3><a href="https://huggingface.co/papers/2605.09635">K12-KGraph · 二等奖</a></h3><p>MinerU 前沿语料与数据智能挑战赛 · AGI4S 前沿语料赛道</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>校长奖学金</h3><p>北京大学</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3><a href="https://arxiv.org/abs/2509.06079">ICML 2025 SeePhys Challenge 冠军</a></h3><p>多模态科学推理竞赛 · 第 1 名</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3><a href="https://www.datafountain.cn/competitions/1098">BAAI LIC Challenge 2025，Track 2 一等奖</a></h3><p>北京智源人工智能研究院</p></div></article>

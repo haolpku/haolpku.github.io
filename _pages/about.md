@@ -70,6 +70,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 
 - **Sep. 2026** Honored to receive the **National Scholarship**.
 - **Sep. 2026** Our [DataFlex-RL paper](https://huggingface.co/papers/2609.06107) ranked **#1** on the Hugging Face Daily Papers leaderboard.
+- **Jul. 2026** Our [K12-KGraph project](https://huggingface.co/papers/2605.09635) won **Second Prize** in the **MinerU Frontier Corpus & Data Intelligence Challenge — AGI4S Frontier Corpus Track**.
 - **Jul. 2026** Our [K12-KGraph paper](https://huggingface.co/papers/2605.09635) ranked **#2** on the Hugging Face Daily Papers leaderboard.
 - **Jul. 2026** Our [DataFlow-Harness paper](https://huggingface.co/papers/2607.16617) ranked **#2** on the Hugging Face Daily Papers leaderboard.
 - **May. 2026** Our [DataPrep-Bench paper](https://huggingface.co/papers/2607.20465) ranked **#1** on the Hugging Face Daily Papers leaderboard.
@@ -197,6 +198,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 <section class="honors-timeline" aria-label="Honors and awards timeline">
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>National Scholarship</h3><p>Peking University</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>President's Scholarship</h3><p>Peking University · Second consecutive year</p></div></article>
+  <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3><a href="https://huggingface.co/papers/2605.09635">K12-KGraph — Second Prize</a></h3><p>MinerU Frontier Corpus &amp; Data Intelligence Challenge · AGI4S Frontier Corpus Track</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3>President's Scholarship</h3><p>Peking University</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3><a href="https://arxiv.org/abs/2509.06079">ICML 2025 SeePhys Challenge — 1st Place</a></h3><p>Multimodal scientific reasoning competition</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2025</span><div class="honor-entry__content"><h3><a href="https://www.datafountain.cn/competitions/1098">BAAI LIC Challenge 2025, Track 2 — First Prize</a></h3><p>Beijing Academy of Artificial Intelligence</p></div></article>
