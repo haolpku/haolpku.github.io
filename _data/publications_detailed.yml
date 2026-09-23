@@ -9,6 +9,17 @@
   citation: "Hao Liang, Mingrui Chen, Hengyi Feng, Meiyi Qiang, Wentao Zhang. (2026). \"DataFlex-RL: An Evaluation Platform for RLVR Data Policies.\" arXiv preprint arXiv:2609.06107."
   summary: "An evaluation platform for reinforcement learning with verifiable rewards that compares rollout selection, reweighting, and domain-mixture policies under a common GRPO recipe."
 
+- title: "OmniEdu: Open Foundation Models for Learning and Teaching"
+  selected: true
+  authors: "Hao Liang, Qihan Lin, Meiyi Qiang, Linzhuang Sun, Hengyi Feng, Mingrui Chen, Sizhe Qiu, Wentao Zhang"
+  venue: "arXiv preprint arXiv:2609.23088"
+  year: "2026"
+  note: "First author · Hugging Face Daily Papers #2"
+  paper_url: "https://arxiv.org/abs/2609.23088"
+  scholar_id: ""
+  citation: "Hao Liang, Qihan Lin, Meiyi Qiang, Linzhuang Sun, Hengyi Feng, Mingrui Chen, Sizhe Qiu, Wentao Zhang. (2026). \"OmniEdu: Open Foundation Models for Learning and Teaching.\" arXiv preprint arXiv:2609.23088."
+  summary: "An open family of 4B, 9B, and 27B foundation models for K–12 learning and teaching, trained with capability-balanced educational data for subject competence, curriculum grounding, learner diagnosis, and pedagogical support."
+
 - title: "Data Preparation for Large Language Models"
   selected: true
   authors: "Hao Liang, Zhen Hao Wong, Rui-Tong Liu, Yu-Han Wang, Meiyi Qiang, Zhengyang Zhao, Chengyu Shen, Conghui He, Wentao Zhang, Bin Cui"

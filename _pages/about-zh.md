@@ -67,6 +67,7 @@ translation_label: EN
 <div class="news-list" markdown="1">
 
 - **2026 年 9 月** 获得 **国家奖学金**。
+- **2026 年 9 月** [OmniEdu 论文](https://huggingface.co/papers/2609.23088)登上 Hugging Face Daily Papers 榜单，排名 **第 2 名**。
 - **2026 年 9 月** [DataFlex-RL 论文](https://huggingface.co/papers/2609.06107)登上 Hugging Face Daily Papers 榜单，排名 **第 2 名**。
 - **2026 年 7 月** [K12-KGraph 项目](https://huggingface.co/papers/2605.09635)在“模塑申城语料普惠计划之 MinerU 前沿语料与数据智能挑战赛”**AGI4S 前沿语料赛道**中获得 **二等奖**。
 - **2026 年 7 月** [K12-KGraph 论文](https://huggingface.co/papers/2605.09635)登上 Hugging Face Daily Papers 榜单 **第 2 名**。
