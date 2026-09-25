@@ -20,6 +20,17 @@
   citation: "Hao Liang, Qihan Lin, Meiyi Qiang, Linzhuang Sun, Hengyi Feng, Mingrui Chen, Sizhe Qiu, Wentao Zhang. (2026). \"OmniEdu: Open Foundation Models for Learning and Teaching.\" arXiv preprint arXiv:2609.23088."
   summary: "An open family of 4B, 9B, and 27B foundation models for K–12 learning and teaching, trained with capability-balanced educational data for subject competence, curriculum grounding, learner diagnosis, and pedagogical support."
 
+- title: "COAL-SQL: Coverage-Guided Augmentation and Failure-Driven Learning for Text-to-SQL Post-Training"
+  selected: true
+  authors: "Qifeng Cai, Xuanguang Pan, Hao Liang, Chang Xu, Wentao Zhang"
+  venue: "arXiv preprint arXiv:2609.20842"
+  year: "2026"
+  note: "Third author"
+  paper_url: "https://arxiv.org/abs/2609.20842"
+  scholar_id: ""
+  citation: "Qifeng Cai, Xuanguang Pan, Hao Liang, Chang Xu, Wentao Zhang. (2026). \"COAL-SQL: Coverage-Guided Augmentation and Failure-Driven Learning for Text-to-SQL Post-Training.\" arXiv preprint arXiv:2609.20842."
+  summary: "A unified Text-to-SQL post-training framework that combines coverage-guided augmentation with failure-driven learning, improving structural coverage and targeting model weaknesses exposed during GRPO."
+
 - title: "Data Preparation for Large Language Models"
   selected: true
   authors: "Hao Liang, Zhen Hao Wong, Rui-Tong Liu, Yu-Han Wang, Meiyi Qiang, Zhengyang Zhao, Chengyu Shen, Conghui He, Wentao Zhang, Bin Cui"
