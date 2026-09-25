@@ -22,10 +22,10 @@
 
 - title: "COAL-SQL: Coverage-Guided Augmentation and Failure-Driven Learning for Text-to-SQL Post-Training"
   selected: true
-  authors: "Qifeng Cai, Xuanguang Pan, Hao Liang, Chang Xu, Wentao Zhang"
+  authors: "Qifeng Cai*, Xuanguang Pan*, Hao Liang*, Chang Xu, Wentao Zhang"
   venue: "arXiv preprint arXiv:2609.20842"
   year: "2026"
-  note: "Third author"
+  note: "Co-first author"
   paper_url: "https://arxiv.org/abs/2609.20842"
   scholar_id: ""
   citation: "Qifeng Cai, Xuanguang Pan, Hao Liang, Chang Xu, Wentao Zhang. (2026). \"COAL-SQL: Coverage-Guided Augmentation and Failure-Driven Learning for Text-to-SQL Post-Training.\" arXiv preprint arXiv:2609.20842."
