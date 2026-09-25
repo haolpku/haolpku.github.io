@@ -69,7 +69,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 <div class="news-list" markdown="1">
 
 - **Sep. 2026** Honored to receive the **National Scholarship**.
-- **Sep. 2026** Our [OmniEdu paper](https://huggingface.co/papers/2609.23088) ranked **#2** on the Hugging Face Daily Papers leaderboard.
+- **Sep. 2026** Our [OmniEdu paper](https://huggingface.co/papers/2609.23088) ranked **#1** on the Hugging Face Daily Papers leaderboard.
 - **Sep. 2026** Our [DataFlex-RL paper](https://huggingface.co/papers/2609.06107) ranked **#2** on the Hugging Face Daily Papers leaderboard.
 - **Jul. 2026** Our [K12-KGraph project](https://huggingface.co/papers/2605.09635) won **Second Prize** in the **MinerU Frontier Corpus & Data Intelligence Challenge — AGI4S Frontier Corpus Track**.
 - **Jul. 2026** Our [K12-KGraph paper](https://huggingface.co/papers/2605.09635) ranked **#2** on the Hugging Face Daily Papers leaderboard.

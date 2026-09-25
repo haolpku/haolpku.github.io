@@ -14,7 +14,7 @@
   authors: "Hao Liang, Qihan Lin, Meiyi Qiang, Linzhuang Sun, Hengyi Feng, Mingrui Chen, Sizhe Qiu, Wentao Zhang"
   venue: "arXiv preprint arXiv:2609.23088"
   year: "2026"
-  note: "First author · Hugging Face Daily Papers #2"
+  note: "First author · Hugging Face Daily Papers #1"
   paper_url: "https://arxiv.org/abs/2609.23088"
   scholar_id: ""
   citation: "Hao Liang, Qihan Lin, Meiyi Qiang, Linzhuang Sun, Hengyi Feng, Mingrui Chen, Sizhe Qiu, Wentao Zhang. (2026). \"OmniEdu: Open Foundation Models for Learning and Teaching.\" arXiv preprint arXiv:2609.23088."
@@ -113,7 +113,7 @@
 - title: "DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models"
   selected: true
   authors: "Hao Liang et al."
-  venue: "Technical report"
+  venue: "NeurIPS 2026"
   year: "2026"
   note: "First author · Hugging Face Daily Papers #1"
   paper_url: "https://arxiv.org/abs/2603.26164"
@@ -216,7 +216,7 @@
 - title: "FLARE: Full-Modality Long-Video Audiovisual Retrieval Benchmark with User-Simulated Queries"
   selected: true
   authors: "Qijie You*, Hao Liang*, Mingrui Chen, Bohan Zeng, Meiyi Qiang, Zhen Hao Wong, Wentao Zhang"
-  venue: "Technical report"
+  venue: "NeurIPS 2026"
   year: "2026"
   note: "Co-first author · Project leader"
   paper_url: "https://arxiv.org/abs/2605.10228"
@@ -234,7 +234,7 @@
 - title: "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs"
   selected: true
   authors: "Hao Liang, Qihan Lin, Zhaoyang Han, Xiaochen Ma, Zhen Hao Wong, Meiyi Qiang, Linzhuang Sun, Wentao Zhang"
-  venue: "Technical report"
+  venue: "NeurIPS 2026"
   year: "2026"
   note: "First author · Hugging Face Daily Papers #2"
   paper_url: "https://arxiv.org/abs/2605.09635"
