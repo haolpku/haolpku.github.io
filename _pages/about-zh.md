@@ -14,7 +14,7 @@ translation_label: EN
 
 **学术影响力：** [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ) · **1,303+ 次引用** · **h-index 18** *（截至 2026 年 9 月 30 日）*
 
-**竞赛获奖：** 🥇 [ICML 2025 SeePhys Challenge 冠军](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025，Track 2 一等奖](https://www.datafountain.cn/competitions/1098)
+**竞赛获奖：** 🥇 [GOAI 2026 Agent Infra 赛道冠军](https://www.goaihz.com/) · 🥇 [ICML 2025 SeePhys Challenge 冠军](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025，Track 2 一等奖](https://www.datafountain.cn/competitions/1098)
 
 ## 欢迎交流
 
@@ -66,6 +66,7 @@ translation_label: EN
 
 <div class="news-list" markdown="1">
 
+- **2026 年 9 月** 获得 [GOAI 全球开源人工智能挑战赛](https://www.goaihz.com/) **Agent Infra 赛道冠军**。
 - **2026 年 9 月** 获得 **国家奖学金**。
 - **2026 年 9 月** [OmniEdu 论文](https://huggingface.co/papers/2609.23088)登顶 Hugging Face Daily Papers 榜单，排名 **第 1 名**。
 - **2026 年 9 月** [DataFlex-RL 论文](https://huggingface.co/papers/2609.06107)登上 Hugging Face Daily Papers 榜单，排名 **第 2 名**。
@@ -193,6 +194,7 @@ translation_label: EN
 ## 荣誉与奖项
 
 <section class="honors-timeline" aria-label="荣誉与奖项时间线">
+  <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3><a href="https://www.goaihz.com/">GOAI 2026 Agent Infra 赛道冠军</a></h3><p>全球开源人工智能挑战赛</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>国家奖学金</h3><p>北京大学</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>校长奖学金</h3><p>北京大学 · 连续第二年</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3><a href="https://huggingface.co/papers/2605.09635">K12-KGraph · 二等奖</a></h3><p>MinerU 前沿语料与数据智能挑战赛 · AGI4S 前沿语料赛道</p></div></article>

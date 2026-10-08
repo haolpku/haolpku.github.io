@@ -16,7 +16,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 
 **Research impact:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=HgapY3sAAAAJ) · **1,303+ citations** · **h-index 18** *(as of September 30, 2026)*
 
-**Competition highlights:** 🥇 [ICML 2025 SeePhys Challenge — 1st Place](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025, Track 2 — First Prize](https://www.datafountain.cn/competitions/1098)
+**Competition highlights:** 🥇 [GOAI 2026 Agent Infra Track — Champion](https://www.goaihz.com/) · 🥇 [ICML 2025 SeePhys Challenge — 1st Place](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025, Track 2 — First Prize](https://www.datafountain.cn/competitions/1098)
 
 ## Let's Connect
 
@@ -68,6 +68,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 
 <div class="news-list" markdown="1">
 
+- **Sep. 2026** We won the **Agent Infra Track Championship** in the [GOAI Global Open-source AI Challenge](https://www.goaihz.com/)!
 - **Sep. 2026** Honored to receive the **National Scholarship**.
 - **Sep. 2026** Our [OmniEdu paper](https://huggingface.co/papers/2609.23088) ranked **#1** on the Hugging Face Daily Papers leaderboard.
 - **Sep. 2026** Our [DataFlex-RL paper](https://huggingface.co/papers/2609.06107) ranked **#2** on the Hugging Face Daily Papers leaderboard.
@@ -197,6 +198,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 ## Honors & Awards
 
 <section class="honors-timeline" aria-label="Honors and awards timeline">
+  <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3><a href="https://www.goaihz.com/">GOAI 2026 Agent Infra Track — Champion</a></h3><p>Global Open-source AI Challenge</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>National Scholarship</h3><p>Peking University</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>President's Scholarship</h3><p>Peking University · Second consecutive year</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3><a href="https://huggingface.co/papers/2605.09635">K12-KGraph — Second Prize</a></h3><p>MinerU Frontier Corpus &amp; Data Intelligence Challenge · AGI4S Frontier Corpus Track</p></div></article>
