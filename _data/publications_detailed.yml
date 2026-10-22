@@ -47,7 +47,7 @@
   venue: "ICLR 2026"
   year: "2026"
   note: "Second author"
-  paper_url: "https://arxiv.org/abs/2506.07527"
+  paper_url: "https://openreview.net/forum?id=LzCBLrNoyM"
   scholar_id: "_kc_bZDykSQC"
   summary: "Introduces interleaved online fine-tuning to learn from questions that remain difficult for reinforcement learning, combining complementary training signals on the hardest examples."
 
@@ -365,7 +365,7 @@
   venue: "NeurIPS 2025"
   year: "2025"
   note: "Co-first author · Project leader"
-  paper_url: "https://arxiv.org/abs/2512.10403"
+  paper_url: "https://openreview.net/forum?id=MdEkxa6PV9"
   scholar_id: "L8Ckcad2t8MC"
   summary: "A benchmark for robustly evaluating audio captions across content coverage, correctness, and failure modes that simple text-overlap metrics miss."
 
