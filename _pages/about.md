@@ -199,6 +199,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 ## Academic Service
 
 - **Area Chair**, [ACL Rolling Review (ARR)](https://aclrollingreview.org/) · 2026
+- **Session Chair**, WWW 2026 · Long-Context & Document Understanding
 
 ## Honors & Awards
 

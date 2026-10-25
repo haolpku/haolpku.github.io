@@ -195,6 +195,7 @@ translation_label: EN
 ## 学术服务
 
 - **领域主席（Area Chair）**，[ACL Rolling Review（ARR）](https://aclrollingreview.org/) · 2026 年
+- **分会场主席（Session Chair）**，WWW 2026 · Long-Context & Document Understanding（长上下文与文档理解）
 
 ## 荣誉与奖项
 
