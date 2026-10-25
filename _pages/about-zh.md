@@ -12,7 +12,7 @@ translation_label: EN
 
 本科毕业于[北京理工大学](https://www.bit.edu.cn/)，曾获徐特立奖学金（北京理工大学最高荣誉）和国家奖学金。我也曾赴[牛津大学](https://www.ox.ac.uk/)访问，与 [Ismail Ilkan Ceylan 教授](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/)和[Michael Bronstein 教授](https://www.cs.ox.ac.uk/people/michael.bronstein/)开展合作。
 
-**学术影响力：** [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ) · **1,303+ 次引用** · **h-index 18** *（截至 2026 年 9 月 30 日）*
+**学术影响力：** [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ) · **1,378+ 次引用** · **h-index 18** *（截至 2026 年 10 月 22 日）*
 
 **竞赛获奖：** 🥇 [GOAI 2026 Agent Infra 赛道冠军](https://www.goaihz.com/) · 🥇 [ICML 2025 SeePhys Challenge 冠军](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025，Track 2 一等奖](https://www.datafountain.cn/competitions/1098)
 
@@ -66,6 +66,7 @@ translation_label: EN
 
 <div class="news-list" markdown="1">
 
+- **2026 年 10 月** 担任 [ACL Rolling Review（ARR）](https://aclrollingreview.org/) **领域主席（Area Chair）**。
 - **2026 年 9 月** 获得 [GOAI 全球开源人工智能挑战赛](https://www.goaihz.com/) **Agent Infra 赛道冠军**。
 - **2026 年 9 月** 获得 **国家奖学金**。
 - **2026 年 9 月** [OmniEdu 论文](https://huggingface.co/papers/2609.23088)登顶 Hugging Face Daily Papers 榜单，排名 **第 1 名**。
@@ -190,6 +191,10 @@ translation_label: EN
     <div class="oss-project__body"><p>将 DataFlow 集成至 CAMEL 数据管线，支持 Agent 驱动的数据工作流。</p></div>
   </article>
 </section>
+
+## 学术服务
+
+- **领域主席（Area Chair）**，[ACL Rolling Review（ARR）](https://aclrollingreview.org/) · 2026 年
 
 ## 荣誉与奖项
 

@@ -14,7 +14,7 @@ I am Hao Liang (梁昊), a Ph.D. candidate at Center for Data Science, [Peking U
 
 Prior to this, I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/), where I was awarded the Xu Teli Scholarship (the highest honor of BIT) and the National Scholarship. I also visited the [University of Oxford](https://www.ox.ac.uk/), working with Prof. [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/) and Prof. [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
 
-**Research impact:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=HgapY3sAAAAJ) · **1,303+ citations** · **h-index 18** *(as of September 30, 2026)*
+**Research impact:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=HgapY3sAAAAJ) · **1,378+ citations** · **h-index 18** *(as of October 22, 2026)*
 
 **Competition highlights:** 🥇 [GOAI 2026 Agent Infra Track — Champion](https://www.goaihz.com/) · 🥇 [ICML 2025 SeePhys Challenge — 1st Place](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025, Track 2 — First Prize](https://www.datafountain.cn/competitions/1098)
 
@@ -68,6 +68,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 
 <div class="news-list" markdown="1">
 
+- **Oct. 2026** Appointed as an **Area Chair** for [ACL Rolling Review (ARR)](https://aclrollingreview.org/).
 - **Sep. 2026** We won the **Agent Infra Track Championship** in the [GOAI Global Open-source AI Challenge](https://www.goaihz.com/)!
 - **Sep. 2026** Honored to receive the **National Scholarship**.
 - **Sep. 2026** Our [OmniEdu paper](https://huggingface.co/papers/2609.23088) ranked **#1** on the Hugging Face Daily Papers leaderboard.
@@ -194,6 +195,10 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
     <div class="oss-project__body"><p>Integrated DataFlow into CAMEL's data pipeline for agent-driven data workflows.</p></div>
   </article>
 </section>
+
+## Academic Service
+
+- **Area Chair**, [ACL Rolling Review (ARR)](https://aclrollingreview.org/) · 2026
 
 ## Honors & Awards
 
