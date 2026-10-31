@@ -91,34 +91,29 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 <section class="research-overview" aria-label="Research directions">
   <div class="research-intro">
     <span class="research-intro__label">Data-Centric AI</span>
-    <p>My research connects data, models, and real-world systems across four directions. For broader context, see our surveys from <a href="https://link.springer.com/article/10.1007/s11390-026-5948-8">text-centric</a> and <a href="https://arxiv.org/abs/2405.16640">multimodal</a> perspectives.</p>
+    <p>My research spans data synthesis and training, data-driven recursive self-improvement (Data RSI), and domain-specific datasets and benchmarks for AI education and scientific discovery. For broader context, see our surveys from <a href="https://link.springer.com/article/10.1007/s11390-026-5948-8">text-centric</a> and <a href="https://arxiv.org/abs/2405.16640">multimodal</a> perspectives.</p>
   </div>
 
   <div class="research-grid">
     <article class="research-card research-card--primary">
       <span class="research-card__number" aria-hidden="true">01</span>
       <header class="research-card__header">
-        <h3>Data Attribution & Data–Model Interaction</h3>
+        <h3>Data Synthesis &amp; Training</h3>
         <span class="research-card__badge">Primary focus</span>
       </header>
-      <p>Understanding how individual data shapes model behavior, then closing the training loop through dynamic selection, mixture, and reweighting.</p>
+      <p>Connecting targeted data synthesis with model training through verification, dynamic selection, mixture, and reweighting. I study how training feedback reveals data gaps and guides the next round of data generation and refinement toward data self-evolution.</p>
       <div class="research-card__links">
+        <a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a>
         <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
         <a href="https://arxiv.org/abs/2603.14712">Perspective paper</a>
       </div>
+      <div class="research-card__keywords"><span>Targeted synthesis</span><span>Training feedback</span><span>Data self-evolution</span></div>
     </article>
 
     <article class="research-card">
       <span class="research-card__number" aria-hidden="true">02</span>
-      <header class="research-card__header"><h3>Data Self-Evolution</h3></header>
-      <p>Building feedback-driven loops in which models and agents continuously generate, evaluate, select, refine, and reuse data as capabilities evolve.</p>
-      <div class="research-card__keywords"><span>On-policy feedback</span><span>Targeted synthesis</span><span>Executable verification</span><span>Skills & memory</span></div>
-    </article>
-
-    <article class="research-card">
-      <span class="research-card__number" aria-hidden="true">03</span>
-      <header class="research-card__header"><h3>Data Infrastructure</h3></header>
-      <p>Scalable infrastructure across the full data lifecycle—from preparation and training-time adaptation to inference-time knowledge access.</p>
+      <header class="research-card__header"><h3>Data RSI</h3></header>
+      <p>Developing data systems for recursive self-improvement (RSI), connecting data preparation, training feedback, and reusable knowledge. I explore how feedback from training and task execution can guide successive improvements to data and models.</p>
       <div class="research-card__links research-card__links--projects">
         <a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a>
         <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
@@ -127,14 +122,24 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
     </article>
 
     <article class="research-card">
-      <span class="research-card__number" aria-hidden="true">04</span>
-      <header class="research-card__header"><h3>Domain Data: Datasets & Benchmarks</h3></header>
-      <p>Constructing effective, verifiable datasets and evaluation protocols for mathematics, <a href="https://lean-lang.org/">Lean</a>, workplace tasks, coding, and other high-value domains.</p>
+      <span class="research-card__number" aria-hidden="true">03</span>
+      <header class="research-card__header"><h3>AI Education</h3></header>
+      <p>Building educational models, curriculum-aligned datasets, and benchmarks for learning and teaching, with a focus on subject knowledge, multimodal mathematical understanding, and pedagogical support.</p>
       <div class="research-card__links">
-        <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758240">MathScape</a>
-        <a href="https://aclanthology.org/2025.acl-long.689/">MM-Verify</a>
-        <a href="https://arxiv.org/abs/2505.13903">Math Verification</a>
+        <a href="https://huggingface.co/papers/2609.23088">OmniEdu</a>
         <a href="https://huggingface.co/papers/2605.09635">K12-KGraph</a>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758240">MathScape</a>
+      </div>
+    </article>
+
+    <article class="research-card">
+      <span class="research-card__number" aria-hidden="true">04</span>
+      <header class="research-card__header"><h3>Science Discovery</h3></header>
+      <p>Developing verifiable data and benchmarks for mathematical and scientific reasoning, including synthetic math data quality, step-by-step verification, and formal reasoning with <a href="https://lean-lang.org/">Lean</a>. I explore how these resources can support AI-assisted scientific discovery.</p>
+      <div class="research-card__links">
+        <a href="https://arxiv.org/abs/2502.19058">MathDebugger</a>
+        <a href="https://arxiv.org/abs/2505.13903">Math Verification</a>
+        <a href="https://aclanthology.org/2025.acl-long.689/">MM-Verify</a>
       </div>
     </article>
   </div>

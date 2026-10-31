@@ -89,34 +89,29 @@ translation_label: EN
 <section class="research-overview" aria-label="研究方向">
   <div class="research-intro">
     <span class="research-intro__label">Data-Centric AI</span>
-    <p>我的研究从数据出发，连接模型训练、能力演化与真实系统，主要包括以下四个方向。完整背景可参考我们关于<a href="https://link.springer.com/article/10.1007/s11390-026-5948-8">文本数据</a>和<a href="https://arxiv.org/abs/2405.16640">多模态数据</a>的综述。</p>
+    <p>我的研究围绕数据合成与训练、数据驱动的递归自我改进（Data RSI），以及面向 AI 教育和科学发现的领域数据集与评测展开。完整背景可参考我们关于<a href="https://link.springer.com/article/10.1007/s11390-026-5948-8">文本数据</a>和<a href="https://arxiv.org/abs/2405.16640">多模态数据</a>的综述。</p>
   </div>
 
   <div class="research-grid">
     <article class="research-card research-card--primary">
       <span class="research-card__number" aria-hidden="true">01</span>
       <header class="research-card__header">
-        <h3>数据归因与数据—模型交互</h3>
+        <h3>数据合成与训练</h3>
         <span class="research-card__badge">主要方向</span>
       </header>
-      <p>研究单条数据如何影响模型行为，并通过动态选择、混合和重加权，在训练过程中建立数据与模型的闭环交互。</p>
+      <p>通过数据验证、动态选择、混合和重加权，连接定向数据合成与模型训练。研究如何从训练反馈中识别数据缺口，指导下一轮数据生成与修正，逐步形成数据自进化闭环。</p>
       <div class="research-card__links">
+        <a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a>
         <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
         <a href="https://arxiv.org/abs/2603.14712">概念性论文</a>
       </div>
+      <div class="research-card__keywords"><span>定向数据合成</span><span>训练反馈</span><span>数据自进化</span></div>
     </article>
 
     <article class="research-card">
       <span class="research-card__number" aria-hidden="true">02</span>
-      <header class="research-card__header"><h3>数据自进化</h3></header>
-      <p>构建模型与 Agent 反馈驱动的数据闭环，让数据随模型能力和任务需求持续生成、评估、筛选、修正与复用。</p>
-      <div class="research-card__keywords"><span>On-policy 反馈</span><span>弱点定向合成</span><span>可执行验证</span><span>Skills & Memory</span></div>
-    </article>
-
-    <article class="research-card">
-      <span class="research-card__number" aria-hidden="true">03</span>
-      <header class="research-card__header"><h3>数据基础设施</h3></header>
-      <p>构建覆盖完整数据生命周期的可扩展基础设施，从数据准备、训练期动态适配延伸到推理期知识访问。</p>
+      <header class="research-card__header"><h3>Data RSI</h3></header>
+      <p>面向递归自我改进（RSI）构建数据系统，连接数据准备、训练反馈与知识复用，探索利用模型训练和任务执行的反馈，持续改进数据与模型。</p>
       <div class="research-card__links research-card__links--projects">
         <a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a>
         <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
@@ -125,14 +120,24 @@ translation_label: EN
     </article>
 
     <article class="research-card">
-      <span class="research-card__number" aria-hidden="true">04</span>
-      <header class="research-card__header"><h3>领域数据：Datasets & Benchmarks</h3></header>
-      <p>面向数学、<a href="https://lean-lang.org/">Lean</a> 形式化推理与验证、工作场景、代码等高价值领域，构建有效且可验证的数据集与评测协议。</p>
+      <span class="research-card__number" aria-hidden="true">03</span>
+      <header class="research-card__header"><h3>AI 教育</h3></header>
+      <p>围绕学习与教学，构建教育大模型、课程标准对齐的数据集及评测基准，重点关注学科知识、多模态数学理解与教学支持。</p>
       <div class="research-card__links">
-        <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758240">MathScape</a>
-        <a href="https://aclanthology.org/2025.acl-long.689/">MM-Verify</a>
-        <a href="https://arxiv.org/abs/2505.13903">数学验证</a>
+        <a href="https://huggingface.co/papers/2609.23088">OmniEdu</a>
         <a href="https://huggingface.co/papers/2605.09635">K12-KGraph</a>
+        <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3758240">MathScape</a>
+      </div>
+    </article>
+
+    <article class="research-card">
+      <span class="research-card__number" aria-hidden="true">04</span>
+      <header class="research-card__header"><h3>科学发现</h3></header>
+      <p>面向数学与科学推理，构建可验证的数据集与评测基准，关注合成数学数据质量、逐步推理验证及 <a href="https://lean-lang.org/">Lean</a> 形式化推理，探索利用这些数据资源支持 AI 辅助科学发现。</p>
+      <div class="research-card__links">
+        <a href="https://arxiv.org/abs/2502.19058">MathDebugger</a>
+        <a href="https://arxiv.org/abs/2505.13903">数学验证</a>
+        <a href="https://aclanthology.org/2025.acl-long.689/">MM-Verify</a>
       </div>
     </article>
   </div>
