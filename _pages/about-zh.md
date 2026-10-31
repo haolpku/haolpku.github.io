@@ -105,7 +105,6 @@ translation_label: EN
         <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
         <a href="https://arxiv.org/abs/2603.14712">概念性论文</a>
       </div>
-      <div class="research-card__keywords"><span>定向数据合成</span><span>训练反馈</span><span>数据自进化</span></div>
     </article>
 
     <article class="research-card">

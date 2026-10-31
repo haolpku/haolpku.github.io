@@ -107,7 +107,6 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
         <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
         <a href="https://arxiv.org/abs/2603.14712">Perspective paper</a>
       </div>
-      <div class="research-card__keywords"><span>Targeted synthesis</span><span>Training feedback</span><span>Data self-evolution</span></div>
     </article>
 
     <article class="research-card">
