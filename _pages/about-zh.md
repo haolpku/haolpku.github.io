@@ -64,7 +64,7 @@ translation_label: EN
 
 ## 最新动态
 
-<div class="news-list" markdown="1">
+<div class="news-list homepage-scroll" role="region" aria-label="最新动态" tabindex="0" markdown="1">
 
 - **2026 年 10 月** 担任 [ACL Rolling Review（ARR）](https://aclrollingreview.org/) **领域主席（Area Chair）**。
 - **2026 年 9 月** 获得 [GOAI 全球开源人工智能挑战赛](https://www.goaihz.com/) **Agent Infra 赛道冠军**。
@@ -199,7 +199,7 @@ translation_label: EN
 
 ## 荣誉与奖项
 
-<section class="honors-timeline" aria-label="荣誉与奖项时间线">
+<section class="honors-timeline homepage-scroll" aria-label="荣誉与奖项时间线" tabindex="0">
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3><a href="https://www.goaihz.com/">GOAI 2026 Agent Infra 赛道冠军</a></h3><p>全球开源人工智能挑战赛</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>国家奖学金</h3><p>北京大学</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>校长奖学金</h3><p>北京大学 · 连续第二年</p></div></article>

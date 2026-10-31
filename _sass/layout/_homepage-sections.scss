@@ -418,16 +418,6 @@
 .honors-timeline {
   position: relative;
   margin: 0.2rem 0 1.5rem;
-
-  &:before {
-    content: "";
-    position: absolute;
-    top: 0.65rem;
-    bottom: 0.65rem;
-    left: 4.1rem;
-    width: 1px;
-    background: var(--global-border-color);
-  }
 }
 
 .honor-entry {
@@ -436,6 +426,21 @@
   grid-template-columns: 3.35rem minmax(0, 1fr);
   gap: 1.55rem;
   align-items: start;
+
+  /* Attach the connecting line to entries so it spans the scrollable content. */
+  &:after {
+    content: "";
+    position: absolute;
+    top: 0.65rem;
+    bottom: -0.65rem;
+    left: 4.1rem;
+    width: 1px;
+    background: var(--global-border-color);
+  }
+
+  &:last-child:after {
+    display: none;
+  }
 
   &:before {
     content: "";
