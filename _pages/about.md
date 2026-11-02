@@ -68,6 +68,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 
 <div class="news-list homepage-scroll" role="region" aria-label="News" tabindex="0" markdown="1">
 
+- **Nov. 2026** Our **DataFlow** project, entered as **DataFlow-Agent**, won **1st Place (First Prize)** in the **Open-source AI Tools Track** at the [2026 Shanghai Open Source Software Application Innovation Competition](https://www.oschina.net/os2026/winners).
 - **Oct. 2026** Appointed as an **Area Chair** for [ACL Rolling Review (ARR)](https://aclrollingreview.org/).
 - **Sep. 2026** We won the **Agent Infra Track Championship** in the [GOAI Global Open-source AI Challenge](https://www.goaihz.com/)!
 - **Sep. 2026** Honored to receive the **National Scholarship**.
@@ -208,6 +209,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 ## Honors & Awards
 
 <section class="honors-timeline homepage-scroll" aria-label="Honors and awards timeline" tabindex="0">
+  <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3><a href="https://www.oschina.net/os2026/winners">DataFlow — Open-source AI Tools Track, 1st Place</a></h3><p>2026 Shanghai Open Source Software Application Innovation Competition · First Prize · Entry: DataFlow-Agent</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3><a href="https://www.goaihz.com/">GOAI 2026 Agent Infra Track — Champion</a></h3><p>Global Open-source AI Challenge</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>National Scholarship</h3><p>Peking University</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>President's Scholarship</h3><p>Peking University · Second consecutive year</p></div></article>
