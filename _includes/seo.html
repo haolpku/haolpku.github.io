@@ -113,7 +113,9 @@
 <!-- end SEO -->
 
 <!-- Open Graph protocol data (https://ogp.me/), used by social media -->
-<meta property="og:locale" content="{{ site.locale | default: "en" }}">
+{% assign share_locale = site.locale | default: "en-US" %}
+{% if page.lang contains 'zh' %}{% assign share_locale = page.lang %}{% endif %}
+<meta property="og:locale" content="{{ share_locale | replace: '-', '_' }}">
 <meta property="og:site_name" content="{{ site.title }}"> 
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 {% if page.date %}

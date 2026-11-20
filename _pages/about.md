@@ -14,7 +14,7 @@ I am Hao Liang (梁昊), a Ph.D. candidate at Center for Data Science, [Peking U
 
 Prior to this, I received my bachelor's degree from [Beijing Institute of Technology](https://www.bit.edu.cn/), where I was awarded the Xu Teli Scholarship (the highest honor of BIT) and the National Scholarship. I also visited the [University of Oxford](https://www.ox.ac.uk/), working with Prof. [Ismail Ilkan Ceylan](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/) and Prof. [Michael Bronstein](https://www.cs.ox.ac.uk/people/michael.bronstein/).
 
-**Research impact:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=HgapY3sAAAAJ) · **1,393+ citations** · **h-index 19** *(as of October 25, 2026)*
+**Research impact:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=HgapY3sAAAAJ) · **{{ site.data.scholar_metrics.citation_count }} citations** · **h-index {{ site.data.scholar_metrics.h_index }}** *(as of {{ site.data.scholar_metrics.checked_on | date: "%B %-d, %Y" }})*
 
 **Competition highlights:** 🥇 [GOAI 2026 Agent Infra Track — Champion](https://www.goaihz.com/) · 🥇 [ICML 2025 SeePhys Challenge — 1st Place](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025, Track 2 — First Prize](https://www.datafountain.cn/competitions/1098)
 
@@ -75,10 +75,10 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 - **Sep. 2026** Honored to receive the **National Scholarship**.
 - **Sep. 2026** Our [OmniEdu paper](https://huggingface.co/papers/2609.23088) ranked **#1** on the Hugging Face Daily Papers leaderboard.
 - **Sep. 2026** Our [DataFlex-RL paper](https://huggingface.co/papers/2609.06107) ranked **#2** on the Hugging Face Daily Papers leaderboard.
+- **Jul. 2026** Our [DataPrep-Bench paper](https://huggingface.co/papers/2607.20465) ranked **#1** on the [July 27 Hugging Face Daily Papers leaderboard](https://huggingface.co/papers/date/2026-07-27).
 - **Jul. 2026** Our [K12-KGraph project](https://huggingface.co/papers/2605.09635) won **Second Prize** in the **MinerU Frontier Corpus & Data Intelligence Challenge — AGI4S Frontier Corpus Track**.
 - **Jul. 2026** Our [K12-KGraph paper](https://huggingface.co/papers/2605.09635) ranked **#2** on the Hugging Face Daily Papers leaderboard.
 - **Jul. 2026** Our [DataFlow-Harness paper](https://huggingface.co/papers/2607.16617) ranked **#2** on the Hugging Face Daily Papers leaderboard.
-- **May. 2026** Our [DataPrep-Bench paper](https://huggingface.co/papers/2607.20465) ranked **#1** on the Hugging Face Daily Papers leaderboard.
 - **May. 2026** Honored to receive the **2026 President's Scholarship** at Peking University for the second consecutive year.
 - **Apr. 2026** Our [DataFlex Technical Report](https://huggingface.co/papers/2603.26164) ranked **#1** on the Hugging Face Daily Papers leaderboard for that day.
 - **Dec. 2025** Our [DataFlow Technical Report](https://huggingface.co/papers/2512.16676) ranked **#1** on the Hugging Face Daily and Weekly Paper Charts!

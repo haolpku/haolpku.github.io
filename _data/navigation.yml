@@ -10,6 +10,8 @@
 main:
   - title: "Publications"
     url: /publications/
+    title_zh: "论文"
+    url_zh: /zh/publications/
 
   # - title: "CV"
   #   url: /cv-json/

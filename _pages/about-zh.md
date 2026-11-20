@@ -12,7 +12,7 @@ translation_label: EN
 
 本科毕业于[北京理工大学](https://www.bit.edu.cn/)，曾获徐特立奖学金（北京理工大学最高荣誉）和国家奖学金。我也曾赴[牛津大学](https://www.ox.ac.uk/)访问，与 [Ismail Ilkan Ceylan 教授](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/)和[Michael Bronstein 教授](https://www.cs.ox.ac.uk/people/michael.bronstein/)开展合作。
 
-**学术影响力：** [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ) · **1,393+ 次引用** · **h-index 19** *（截至 2026 年 10 月 25 日）*
+**学术影响力：** [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HgapY3sAAAAJ) · **{{ site.data.scholar_metrics.citation_count }} 次引用** · **h-index {{ site.data.scholar_metrics.h_index }}** *（截至 {{ site.data.scholar_metrics.checked_on | date: "%Y 年 %-m 月 %-d 日" }}）*
 
 **竞赛获奖：** 🥇 [GOAI 2026 Agent Infra 赛道冠军](https://www.goaihz.com/) · 🥇 [ICML 2025 SeePhys Challenge 冠军](https://arxiv.org/abs/2509.06079) · 🥇 [BAAI LIC Challenge 2025，Track 2 一等奖](https://www.datafountain.cn/competitions/1098)
 
@@ -69,19 +69,19 @@ translation_label: EN
 - **2026 年 11 月** **DataFlex** 项目获得 [第四届开放原子大赛·2026 开源行业解决方案创新赛](https://www.oschina.net/oa2026/) **开源基础软件与解决方案赛道三等奖**。
 - **2026 年 11 月** **DataFlow** 项目（参赛名 **DataFlow-Agent**）获得 [2026 上海开源软件应用创新大赛](https://www.oschina.net/os2026/winners) **开源 AI 工具赛道第一名（一等奖）**。
 - **2026 年 10 月** 担任 [ACL Rolling Review（ARR）](https://aclrollingreview.org/) **领域主席（Area Chair）**。
-- **2026 年 9 月** 获得 [GOAI 全球开源人工智能挑战赛](https://www.goaihz.com/) **Agent Infra 赛道冠军**。
+- **2026 年 9 月** 团队获 [GOAI 全球开源人工智能挑战赛](https://www.goaihz.com/) **Agent Infra 赛道冠军**。
 - **2026 年 9 月** 获得 **国家奖学金**。
 - **2026 年 9 月** [OmniEdu 论文](https://huggingface.co/papers/2609.23088)登顶 Hugging Face Daily Papers 榜单，排名 **第 1 名**。
 - **2026 年 9 月** [DataFlex-RL 论文](https://huggingface.co/papers/2609.06107)登上 Hugging Face Daily Papers 榜单，排名 **第 2 名**。
+- **2026 年 7 月** [DataPrep-Bench 论文](https://huggingface.co/papers/2607.20465)登上 [7 月 27 日 Hugging Face Daily Papers 榜单](https://huggingface.co/papers/date/2026-07-27) **第 1 名**。
 - **2026 年 7 月** [K12-KGraph 项目](https://huggingface.co/papers/2605.09635)在“模塑申城语料普惠计划之 MinerU 前沿语料与数据智能挑战赛”**AGI4S 前沿语料赛道**中获得 **二等奖**。
 - **2026 年 7 月** [K12-KGraph 论文](https://huggingface.co/papers/2605.09635)登上 Hugging Face Daily Papers 榜单 **第 2 名**。
 - **2026 年 7 月** [DataFlow-Harness 论文](https://huggingface.co/papers/2607.16617)登上 Hugging Face Daily Papers 榜单 **第 2 名**。
-- **2026 年 5 月** [DataPrep-Bench 论文](https://huggingface.co/papers/2607.20465)登上 Hugging Face Daily Papers 榜单 **第 1 名**。
 - **2026 年 5 月** 连续第二年获得 **北京大学校长奖学金**。
 - **2026 年 4 月** [DataFlex 技术报告](https://huggingface.co/papers/2603.26164)登顶当日 Hugging Face Daily Papers 榜单。
 - **2025 年 12 月** [DataFlow 技术报告](https://huggingface.co/papers/2512.16676)同时登顶 Hugging Face Daily 与 Weekly Paper Charts。
-- **2025 年 9 月** 获得 [ICML 2025 SeePhys Challenge](https://arxiv.org/abs/2509.06079) **冠军**。
-- **2025 年 8 月** 获得 [BAAI LIC Challenge 2025，Track 2](https://www.datafountain.cn/competitions/1098) **一等奖**。
+- **2025 年 9 月** 团队获 [ICML 2025 SeePhys Challenge](https://arxiv.org/abs/2509.06079) **冠军**。
+- **2025 年 8 月** 团队获 [BAAI LIC Challenge 2025，Track 2](https://www.datafountain.cn/competitions/1098) **一等奖**。
 - **2025 年 6 月** 获得 **北京大学校长奖学金**。
 
 </div>
@@ -153,7 +153,7 @@ translation_label: EN
     <span class="oss-project__index" aria-hidden="true">01</span>
     <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a></h3><a href="https://github.com/OpenDCAI/DataFlow" aria-label="DataFlow stars"><img src="https://img.shields.io/github/stars/OpenDCAI/DataFlow?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="DataFlow stars"></a></div>
-      <span class="oss-project__role">核心设计者</span>
+      <span class="oss-project__role">主导设计</span>
     </div>
     <div class="oss-project__body">
       <p><em>Generate, Clean, and Prepare LLM Data, All-in-One.</em> 通过算子化工作流支持跨领域的数据生成、清洗、评测与流程自动化。</p>
@@ -165,7 +165,7 @@ translation_label: EN
     <span class="oss-project__index" aria-hidden="true">02</span>
     <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a></h3><a href="https://github.com/OpenDCAI/DataFlex" aria-label="DataFlex stars"><img src="https://img.shields.io/github/stars/OpenDCAI/DataFlex?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="DataFlex stars"></a></div>
-      <span class="oss-project__role">核心设计者</span>
+      <span class="oss-project__role">主导设计</span>
     </div>
     <div class="oss-project__body"><p><em>Data Select · Mix · Reweight—right in the LLM training loop.</em> 构建在 LLaMA-Factory 之上的数据中心动态训练框架。</p></div>
   </article>
@@ -174,7 +174,7 @@ translation_label: EN
     <span class="oss-project__index" aria-hidden="true">03</span>
     <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/OpenDCAI/DataMind">DataMind</a></h3><a href="https://github.com/OpenDCAI/DataMind" aria-label="DataMind stars"><img src="https://img.shields.io/github/stars/OpenDCAI/DataMind?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="DataMind stars"></a></div>
-      <span class="oss-project__role">核心设计者</span>
+      <span class="oss-project__role">主导设计</span>
     </div>
     <div class="oss-project__body"><p><em>Store at inference time. Retrieve with evidence.</em> 面向 Agent 的共享数据平面，统一连接 RAG、数据库、知识图谱、Skills 与持久化 Memory。</p></div>
   </article>
