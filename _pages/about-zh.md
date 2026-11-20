@@ -8,7 +8,7 @@ translation_url: /
 translation_label: EN
 ---
 
-我是梁昊（Hao Liang），[北京大学](https://www.pku.edu.cn/)数据科学中心博士生，联合培养于[北京中关村学院](https://www.bza.edu.cn/)，同时也是一家 **AI 数据公司的联合创始人**。我曾 **连续两年获得北京大学校长奖学金**，并于 **2026 年获得国家奖学金**。我的导师是[张文涛教授](https://zwt233.github.io/)和[董彬教授](http://faculty.bicmr.pku.edu.cn/~dongbin/)，并与[崔斌教授](https://cuibinpku.github.io/)和[鄂维南教授](https://web.math.princeton.edu/~weinan/)保持紧密合作。
+我是梁昊（Hao Liang），[北京大学](https://www.pku.edu.cn/)数据科学中心博士生，联合培养于[北京中关村学院](https://www.bza.edu.cn/)，预计于 **2028 年毕业**。我曾 **连续两年获得北京大学校长奖学金**，并于 **2026 年获得国家奖学金**。我的导师是[张文涛教授](https://zwt233.github.io/)和[董彬教授](http://faculty.bicmr.pku.edu.cn/~dongbin/)，并与[崔斌教授](https://cuibinpku.github.io/)和[鄂维南教授](https://web.math.princeton.edu/~weinan/)保持紧密合作。
 
 本科毕业于[北京理工大学](https://www.bit.edu.cn/)，曾获徐特立奖学金（北京理工大学最高荣誉）和国家奖学金。我也曾赴[牛津大学](https://www.ox.ac.uk/)访问，与 [Ismail Ilkan Ceylan 教授](https://www.cs.ox.ac.uk/people/ismaililkan.ceylan/)和[Michael Bronstein 教授](https://www.cs.ox.ac.uk/people/michael.bronstein/)开展合作。
 
