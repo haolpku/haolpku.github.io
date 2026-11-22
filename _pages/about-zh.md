@@ -173,6 +173,15 @@ translation_label: EN
   <article class="oss-project">
     <span class="oss-project__index" aria-hidden="true">03</span>
     <div class="oss-project__identity">
+      <div class="oss-project__title"><h3><a href="https://github.com/haolpku/Omni-Edu">OmniEdu</a></h3><a href="https://github.com/haolpku/Omni-Edu" aria-label="OmniEdu 的 GitHub 星标"><img src="https://img.shields.io/github/stars/haolpku/Omni-Edu?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="OmniEdu 的 GitHub 星标"></a></div>
+      <span class="oss-project__role">第一作者</span>
+    </div>
+    <div class="oss-project__body"><p>面向 K–12 学习与教学的 4B、9B、27B 开源模型，配套发布与课程对齐的数据、训练代码及评测工具。</p></div>
+  </article>
+
+  <article class="oss-project">
+    <span class="oss-project__index" aria-hidden="true">04</span>
+    <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/OpenDCAI/DataMind">DataMind</a></h3><a href="https://github.com/OpenDCAI/DataMind" aria-label="DataMind stars"><img src="https://img.shields.io/github/stars/OpenDCAI/DataMind?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="DataMind stars"></a></div>
       <span class="oss-project__role">主导设计</span>
     </div>
@@ -180,7 +189,7 @@ translation_label: EN
   </article>
 
   <article class="oss-project">
-    <span class="oss-project__index" aria-hidden="true">04</span>
+    <span class="oss-project__index" aria-hidden="true">05</span>
     <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/hiyouga/LLaMA-Factory">LLaMA-Factory</a></h3><a href="https://github.com/hiyouga/LLaMA-Factory" aria-label="LLaMA-Factory stars"><img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="LLaMA-Factory stars"></a></div>
       <span class="oss-project__role">参与贡献</span>
@@ -189,7 +198,7 @@ translation_label: EN
   </article>
 
   <article class="oss-project">
-    <span class="oss-project__index" aria-hidden="true">05</span>
+    <span class="oss-project__index" aria-hidden="true">06</span>
     <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/camel-ai/camel">CAMEL</a></h3><a href="https://github.com/camel-ai/camel" aria-label="CAMEL stars"><img src="https://img.shields.io/github/stars/camel-ai/camel?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="CAMEL stars"></a></div>
       <span class="oss-project__role">生态集成</span>

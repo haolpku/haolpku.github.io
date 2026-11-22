@@ -177,6 +177,15 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
   <article class="oss-project">
     <span class="oss-project__index" aria-hidden="true">03</span>
     <div class="oss-project__identity">
+      <div class="oss-project__title"><h3><a href="https://github.com/haolpku/Omni-Edu">OmniEdu</a></h3><a href="https://github.com/haolpku/Omni-Edu" aria-label="OmniEdu stars"><img src="https://img.shields.io/github/stars/haolpku/Omni-Edu?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="OmniEdu stars"></a></div>
+      <span class="oss-project__role">First author</span>
+    </div>
+    <div class="oss-project__body"><p>Open 4B, 9B, and 27B models for K–12 learning and teaching, with curriculum-aligned data, training code, and evaluation tools.</p></div>
+  </article>
+
+  <article class="oss-project">
+    <span class="oss-project__index" aria-hidden="true">04</span>
+    <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/OpenDCAI/DataMind">DataMind</a></h3><a href="https://github.com/OpenDCAI/DataMind" aria-label="DataMind stars"><img src="https://img.shields.io/github/stars/OpenDCAI/DataMind?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="DataMind stars"></a></div>
       <span class="oss-project__role">Lead designer</span>
     </div>
@@ -184,7 +193,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
   </article>
 
   <article class="oss-project">
-    <span class="oss-project__index" aria-hidden="true">04</span>
+    <span class="oss-project__index" aria-hidden="true">05</span>
     <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/hiyouga/LLaMA-Factory">LLaMA-Factory</a></h3><a href="https://github.com/hiyouga/LLaMA-Factory" aria-label="LLaMA-Factory stars"><img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="LLaMA-Factory stars"></a></div>
       <span class="oss-project__role">Contributor</span>
@@ -193,7 +202,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
   </article>
 
   <article class="oss-project">
-    <span class="oss-project__index" aria-hidden="true">05</span>
+    <span class="oss-project__index" aria-hidden="true">06</span>
     <div class="oss-project__identity">
       <div class="oss-project__title"><h3><a href="https://github.com/camel-ai/camel">CAMEL</a></h3><a href="https://github.com/camel-ai/camel" aria-label="CAMEL stars"><img src="https://img.shields.io/github/stars/camel-ai/camel?style=flat&amp;logo=github&amp;label=stars&amp;color=181717" alt="CAMEL stars"></a></div>
       <span class="oss-project__role">Integration</span>
