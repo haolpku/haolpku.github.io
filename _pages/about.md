@@ -93,7 +93,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 <section class="research-overview" aria-label="Research directions">
   <div class="research-intro">
     <span class="research-intro__label">Data-Centric AI</span>
-    <p>My research spans data synthesis and training, data-driven recursive self-improvement (Data RSI), and domain-specific datasets and benchmarks for AI education and scientific discovery. For broader context, see our surveys from <a href="https://link.springer.com/article/10.1007/s11390-026-5948-8">text-centric</a> and <a href="https://arxiv.org/abs/2405.16640">multimodal</a> perspectives.</p>
+    <p>My research spans data synthesis and training, data-driven recursive self-improvement for domain-specific tasks, and data-centric AI for education and science. For broader context, see our surveys from <a href="https://link.springer.com/article/10.1007/s11390-026-5948-8">text-centric</a> and <a href="https://arxiv.org/abs/2405.16640">multimodal</a> perspectives.</p>
   </div>
 
   <div class="research-grid">
@@ -113,8 +113,8 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 
     <article class="research-card">
       <span class="research-card__number" aria-hidden="true">02</span>
-      <header class="research-card__header"><h3>Data RSI</h3></header>
-      <p>Developing data systems for recursive self-improvement (RSI), connecting data preparation, training feedback, and reusable knowledge. I explore how feedback from training and task execution can guide successive improvements to data and models.</p>
+      <header class="research-card__header"><h3>Data Recursive Self-Improvement</h3></header>
+      <p>I study how recursive self-improvement (RSI) can help models tackle domain-specific problems. I use feedback from training and real tasks to identify capability gaps, generate and verify targeted data, and evaluate whether each round improves performance in the target domain.</p>
       <div class="research-card__links research-card__links--projects">
         <a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a>
         <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
@@ -135,8 +135,8 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 
     <article class="research-card">
       <span class="research-card__number" aria-hidden="true">04</span>
-      <header class="research-card__header"><h3>Science Discovery</h3></header>
-      <p>Developing verifiable data and benchmarks for mathematical and scientific reasoning, including synthetic math data quality, step-by-step verification, and formal reasoning with <a href="https://lean-lang.org/">Lean</a>. I explore how these resources can support AI-assisted scientific discovery.</p>
+      <header class="research-card__header"><h3>DCAI for Science</h3></header>
+      <p>I build verifiable datasets and benchmarks for mathematical and scientific reasoning to support AI-assisted discovery. My work focuses on synthetic math data quality, step-by-step reasoning verification, and formal reasoning with <a href="https://lean-lang.org/">Lean</a>.</p>
       <div class="research-card__links">
         <a href="https://arxiv.org/abs/2502.19058">MathDebugger</a>
         <a href="https://arxiv.org/abs/2505.13903">Math Verification</a>

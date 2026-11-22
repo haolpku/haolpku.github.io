@@ -91,7 +91,7 @@ translation_label: EN
 <section class="research-overview" aria-label="研究方向">
   <div class="research-intro">
     <span class="research-intro__label">Data-Centric AI</span>
-    <p>我的研究围绕数据合成与训练、数据驱动的递归自我改进（Data RSI），以及面向 AI 教育和科学发现的领域数据集与评测展开。完整背景可参考我们关于<a href="https://link.springer.com/article/10.1007/s11390-026-5948-8">文本数据</a>和<a href="https://arxiv.org/abs/2405.16640">多模态数据</a>的综述。</p>
+    <p>我的研究聚焦数据合成与训练、面向垂域任务的数据递归自我改进，以及以数据为中心的 AI 在教育和科学中的应用。完整背景可参考我们关于<a href="https://link.springer.com/article/10.1007/s11390-026-5948-8">文本数据</a>和<a href="https://arxiv.org/abs/2405.16640">多模态数据</a>的综述。</p>
   </div>
 
   <div class="research-grid">
@@ -111,8 +111,8 @@ translation_label: EN
 
     <article class="research-card">
       <span class="research-card__number" aria-hidden="true">02</span>
-      <header class="research-card__header"><h3>Data RSI</h3></header>
-      <p>面向递归自我改进（RSI）构建数据系统，连接数据准备、训练反馈与知识复用，探索利用模型训练和任务执行的反馈，持续改进数据与模型。</p>
+      <header class="research-card__header"><h3>数据递归自我改进</h3></header>
+      <p>我研究如何用递归自我改进（RSI）帮助模型解决垂域中的实际问题：从训练与真实任务的反馈中识别能力缺口，定向生成与验证数据，再用垂域评测检验每轮迭代是否让模型表现更好。</p>
       <div class="research-card__links research-card__links--projects">
         <a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a>
         <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
@@ -133,8 +133,8 @@ translation_label: EN
 
     <article class="research-card">
       <span class="research-card__number" aria-hidden="true">04</span>
-      <header class="research-card__header"><h3>科学发现</h3></header>
-      <p>面向数学与科学推理，构建可验证的数据集与评测基准，关注合成数学数据质量、逐步推理验证及 <a href="https://lean-lang.org/">Lean</a> 形式化推理，探索利用这些数据资源支持 AI 辅助科学发现。</p>
+      <header class="research-card__header"><h3>面向科学的 DCAI</h3></header>
+      <p>面向数学与科学推理，构建可验证的数据集与评测基准，支持 AI 辅助科学发现。重点关注合成数学数据质量、逐步推理验证及 <a href="https://lean-lang.org/">Lean</a> 形式化推理。</p>
       <div class="research-card__links">
         <a href="https://arxiv.org/abs/2502.19058">MathDebugger</a>
         <a href="https://arxiv.org/abs/2505.13903">数学验证</a>
