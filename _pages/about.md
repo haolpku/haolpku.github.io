@@ -124,8 +124,8 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
 
     <article class="research-card">
       <span class="research-card__number" aria-hidden="true">03</span>
-      <header class="research-card__header"><h3>AI Education</h3></header>
-      <p>Building educational models, curriculum-aligned datasets, and benchmarks for learning and teaching, with a focus on subject knowledge, multimodal mathematical understanding, and pedagogical support.</p>
+      <header class="research-card__header"><h3>AI for Science Education</h3></header>
+      <p>I build curriculum-aligned datasets, benchmarks, and models for science education, with a focus on mathematical and scientific reasoning. I study how models connect concepts across a curriculum, reason from visual evidence, and explain their reasoning to learners.</p>
       <div class="research-card__links">
         <a href="https://huggingface.co/papers/2609.23088">OmniEdu</a>
         <a href="https://huggingface.co/papers/2605.09635">K12-KGraph</a>

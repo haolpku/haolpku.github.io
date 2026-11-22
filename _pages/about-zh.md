@@ -122,8 +122,8 @@ translation_label: EN
 
     <article class="research-card">
       <span class="research-card__number" aria-hidden="true">03</span>
-      <header class="research-card__header"><h3>AI 教育</h3></header>
-      <p>围绕学习与教学，构建教育大模型、课程标准对齐的数据集及评测基准，重点关注学科知识、多模态数学理解与教学支持。</p>
+      <header class="research-card__header"><h3>AI 科学教育</h3></header>
+      <p>面向科学教育，我构建与课程对齐的数据集、评测基准和模型，重点关注数学与科学推理。我研究模型如何串联课程中的学科概念、结合视觉证据推理，并向学习者解释推理过程。</p>
       <div class="research-card__links">
         <a href="https://huggingface.co/papers/2609.23088">OmniEdu</a>
         <a href="https://huggingface.co/papers/2605.09635">K12-KGraph</a>
