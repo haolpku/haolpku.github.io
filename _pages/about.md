@@ -118,7 +118,7 @@ Prior to this, I received my bachelor's degree from [Beijing Institute of Techno
       <div class="research-card__links research-card__links--projects">
         <a href="https://github.com/OpenDCAI/DataFlow">DataFlow</a>
         <a href="https://github.com/OpenDCAI/DataFlex">DataFlex</a>
-        <a href="https://github.com/OpenDCAI/DataMind">DataMind</a>
+        <a href="https://github.com/haolpku/DataFlow-RSI">DataFlow-RSI</a>
       </div>
     </article>
 
