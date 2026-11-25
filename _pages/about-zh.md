@@ -66,6 +66,7 @@ translation_label: EN
 
 <div class="news-list homepage-scroll" role="region" aria-label="最新动态" tabindex="0" markdown="1">
 
+- **2026 年 11 月** 获得北京中关村学院 **“创新突破臻益奖学金”**。
 - **2026 年 11 月** **DataFlex** 项目获得 [第四届开放原子大赛·2026 开源行业解决方案创新赛](https://www.oschina.net/oa2026/) **开源基础软件与解决方案赛道三等奖**。
 - **2026 年 11 月** **DataFlow** 项目（参赛名 **DataFlow-Agent**）获得 [2026 上海开源软件应用创新大赛](https://www.oschina.net/os2026/winners) **开源 AI 工具赛道第一名（一等奖）**。
 - **2026 年 10 月** 担任 [ACL Rolling Review（ARR）](https://aclrollingreview.org/) **领域主席（Area Chair）**。
@@ -215,6 +216,7 @@ translation_label: EN
 ## 荣誉与奖项
 
 <section class="honors-timeline homepage-scroll" aria-label="荣誉与奖项时间线" tabindex="0">
+  <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3>创新突破臻益奖学金</h3><p>北京中关村学院</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3><a href="https://www.oschina.net/oa2026/">DataFlex · 三等奖</a></h3><p>第四届开放原子大赛·2026 开源行业解决方案创新赛 · 开源基础软件与解决方案赛道</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3><a href="https://www.oschina.net/os2026/winners">DataFlow · 开源 AI 工具赛道第一名（一等奖）</a></h3><p>2026 上海开源软件应用创新大赛 · 参赛名 DataFlow-Agent</p></div></article>
   <article class="honor-entry"><span class="honor-entry__year">2026</span><div class="honor-entry__content"><h3><a href="https://www.goaihz.com/">GOAI 2026 Agent Infra 赛道冠军</a></h3><p>全球开源人工智能挑战赛</p></div></article>
